@@ -1,0 +1,987 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/samantha/ontologies/2019/7/15/untitled-ontology-128"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/samantha/ontologies/2019/7/15/untitled-ontology-128">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00620"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00621"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00622"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00623"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00624"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00625"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00626"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00627"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00628"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00629"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00630"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00631"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00632"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00633"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00634"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00635"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00637"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00638"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00639"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00640"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00642"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00643"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00644"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00645"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00646"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00647"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00648"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00649"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00650"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00651"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00652"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00653"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00654"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00655"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00656"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00657"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00659"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00660"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00661"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00662"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00664"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00665"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00666"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00667"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00668"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00669"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00670"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00671"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00672"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00673"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00674"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00675"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00676"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00677"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00678"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00680"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00681"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00682"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00683"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00684"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00685"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00686"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00687"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00688"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00689"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00691"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00692"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00693"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00694"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00695"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00696"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00697"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00698"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00620"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00621"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00622"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00623"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00624"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00625"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00626"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00627"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00628"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00629"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00630"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00631"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00632"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00633"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00634"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00635"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00637"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00638"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00639"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00640"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00642"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00643"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00644"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00645"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00646"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00647"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00648"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00649"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00650"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00651"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00652"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00653"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00652"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00654"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00652"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00655"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00656"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00655"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00657"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00655"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00659"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00660"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00661"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00662"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00664"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00665"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00666"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00667"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00668"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00669"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00670"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00671"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00672"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00673"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00674"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00675"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00676"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00677"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00678"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00680"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00681"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00682"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00683"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00684"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00685"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00686"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00687"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00688"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00689"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00691"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00692"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00693"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00694"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00695"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00696"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00695"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00697"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00695"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00698"/>
+        <Class IRI="https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00695"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00618</IRI>
+        <Literal xml:lang="en">Symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00619</IRI>
+        <Literal xml:lang="en">Neurological symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00620</IRI>
+        <Literal xml:lang="en">Headache</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00621</IRI>
+        <Literal xml:lang="en">Performance of skilled tasks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00622</IRI>
+        <Literal xml:lang="en">Tremor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00623</IRI>
+        <Literal xml:lang="en">Insomnia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00624</IRI>
+        <Literal xml:lang="en">Paraesthesia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00625</IRI>
+        <Literal xml:lang="en">Confusion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00626</IRI>
+        <Literal xml:lang="en">Dizziness/ vertigo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00627</IRI>
+        <Literal xml:lang="en">Convulsions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00628</IRI>
+        <Literal xml:lang="en">Incoordination</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00629</IRI>
+        <Literal xml:lang="en">Hearing abnormality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00630</IRI>
+        <Literal xml:lang="en">Thinking abnormal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00631</IRI>
+        <Literal xml:lang="en">Speech impairment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00632</IRI>
+        <Literal xml:lang="en">Memory problems</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00633</IRI>
+        <Literal xml:lang="en">Abnormal sensation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00634</IRI>
+        <Literal xml:lang="en">Drowsiness</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00635</IRI>
+        <Literal xml:lang="en">Migraine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00636</IRI>
+        <Literal xml:lang="en">Psychiatric symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00637</IRI>
+        <Literal xml:lang="en">Depression</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00638</IRI>
+        <Literal xml:lang="en">Anxiety</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00639</IRI>
+        <Literal xml:lang="en">Psychosis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00640</IRI>
+        <Literal xml:lang="en">Mood swings/ alterations</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00641</IRI>
+        <Literal xml:lang="en">Gastrointestinal symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00642</IRI>
+        <Literal xml:lang="en">Dyspepsia/ GI discomfort</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00643</IRI>
+        <Literal xml:lang="en">Abdominal pain/ distress</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00644</IRI>
+        <Literal xml:lang="en">Jaundice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00645</IRI>
+        <Literal xml:lang="en">Diarrhoea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00646</IRI>
+        <Literal xml:lang="en">Decreased appetite</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00647</IRI>
+        <Literal xml:lang="en">Nausea/  vomiting</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00648</IRI>
+        <Literal xml:lang="en">Constipation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00649</IRI>
+        <Literal xml:lang="en">Altered taste</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00650</IRI>
+        <Literal xml:lang="en">Dysphagia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00651</IRI>
+        <Literal xml:lang="en">Mouth/ throat irritation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00652</IRI>
+        <Literal xml:lang="en">Cardiac symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00653</IRI>
+        <Literal xml:lang="en">Palpitations</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00654</IRI>
+        <Literal xml:lang="en">Chest pain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00655</IRI>
+        <Literal xml:lang="en">Respiratory symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00656</IRI>
+        <Literal xml:lang="en">Dyspnoea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00657</IRI>
+        <Literal xml:lang="en">Cough</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00658</IRI>
+        <Literal xml:lang="en">Musculoskeletal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00659</IRI>
+        <Literal xml:lang="en">Muscle cramps/ pain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00660</IRI>
+        <Literal xml:lang="en">Arthralgia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00661</IRI>
+        <Literal xml:lang="en">Muscle weakness</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00662</IRI>
+        <Literal xml:lang="en">Muscle tone increased</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00663</IRI>
+        <Literal xml:lang="en">General</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00664</IRI>
+        <Literal xml:lang="en">Fatigue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00665</IRI>
+        <Literal xml:lang="en">Weight gain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00666</IRI>
+        <Literal xml:lang="en">Weight loss</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00667</IRI>
+        <Literal xml:lang="en">Night sweats</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00668</IRI>
+        <Literal xml:lang="en">Flushing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00669</IRI>
+        <Literal xml:lang="en">Oedema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00670</IRI>
+        <Literal xml:lang="en">Pain/ in extremity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00671</IRI>
+        <Literal xml:lang="en">Fever</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00672</IRI>
+        <Literal xml:lang="en">Gynaecomastia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00673</IRI>
+        <Literal xml:lang="en">Gum hyperplasia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00674</IRI>
+        <Literal xml:lang="en">Hair changes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00675</IRI>
+        <Literal xml:lang="en">Malaise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00676</IRI>
+        <Literal xml:lang="en">Chills</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00677</IRI>
+        <Literal xml:lang="en">Ear pain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00678</IRI>
+        <Literal xml:lang="en">Dehydration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00679</IRI>
+        <Literal xml:lang="en">Skin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00680</IRI>
+        <Literal xml:lang="en">Pruritis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00681</IRI>
+        <Literal xml:lang="en">Alopecia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00682</IRI>
+        <Literal xml:lang="en">Rash</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00683</IRI>
+        <Literal xml:lang="en">Sweating/ sweat changes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00684</IRI>
+        <Literal xml:lang="en">Acne</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00685</IRI>
+        <Literal xml:lang="en">Photosensitivity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00686</IRI>
+        <Literal xml:lang="en">Skin reactions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00687</IRI>
+        <Literal xml:lang="en">Impaired healing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00688</IRI>
+        <Literal xml:lang="en">Nail discolouration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00689</IRI>
+        <Literal xml:lang="en">Tumours</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00690</IRI>
+        <Literal xml:lang="en">Urogenital/ Gynae</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00691</IRI>
+        <Literal xml:lang="en">Dysuria/ cystitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00692</IRI>
+        <Literal xml:lang="en">Vulvovaginal symptoms including ulcers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00693</IRI>
+        <Literal xml:lang="en">Menstrual disturbance/ cycle irregularities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00694</IRI>
+        <Literal xml:lang="en">Sexual dysfunction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00695</IRI>
+        <Literal xml:lang="en">Eyes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00696</IRI>
+        <Literal xml:lang="en">Inflammation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00697</IRI>
+        <Literal xml:lang="en">Visual impairment/ disorders</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://github.com/sap218/uveitis/tree/master/ontology/uveitis.owl#QOL_00698</IRI>
+        <Literal xml:lang="en">Lacrimation disorder</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.7.2018-12-02T02:23:35Z) https://github.com/owlcs/owlapi -->
+
