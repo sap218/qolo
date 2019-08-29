@@ -6,6 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="https://github.com/sap218/quality-of-life-ontology/tree/master/ontology/QoL.owl">
+    <Prefix name="" IRI="https://github.com/sap218/quality-of-life-ontology/tree/master/ontology/QoL.owl#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -1711,57 +1712,57 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00123</IRI>
-        <Literal xml:lang="en">NIH PRO-CTCAE</Literal>
+        <Literal xml:lang="en">Nih pro-cate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00124</IRI>
-        <Literal xml:lang="en">TACROLIMUS</Literal>
+        <Literal xml:lang="en">Tacrolimus</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00125</IRI>
-        <Literal xml:lang="en">CICLOSPORIN</Literal>
+        <Literal xml:lang="en">Ciclosporin</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00126</IRI>
-        <Literal xml:lang="en">AZATHIOPRINE</Literal>
+        <Literal xml:lang="en">Azathioprine</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00127</IRI>
-        <Literal xml:lang="en">MYCOPHENOLATE</Literal>
+        <Literal xml:lang="en">Mycophenolate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00128</IRI>
-        <Literal xml:lang="en">METHOTREXATE</Literal>
+        <Literal xml:lang="en">Methotrexate</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00129</IRI>
-        <Literal xml:lang="en">PREDNISOLONE</Literal>
+        <Literal xml:lang="en">Prednisolone</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00130</IRI>
-        <Literal xml:lang="en">ADALIMUMAB</Literal>
+        <Literal xml:lang="en">Adalimumab</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00131</IRI>
-        <Literal xml:lang="en">INFLIXIMAB</Literal>
+        <Literal xml:lang="en">Infliximab</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00132</IRI>
-        <Literal xml:lang="en">RITUXIMAB</Literal>
+        <Literal xml:lang="en">Rituximab</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00133</IRI>
-        <Literal xml:lang="en">TOCILIZUMAB</Literal>
+        <Literal xml:lang="en">Tocilizumab</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
