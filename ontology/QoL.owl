@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="https://github.com/sap218/Quality-Of-Life-Ontology/tree/master/ontology/QoL.owl"
+     xml:base="https://github.com/sap218/quality-of-life-ontology/tree/master/ontology/QoL.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://github.com/sap218/Quality-Of-Life-Ontology/tree/master/ontology/QoL.owl">
-    <Prefix name="" IRI="https://github.com/sap218/Quality-Of-Life-Ontology/tree/master/ontology/QoL.owl#"/>
+     ontologyIRI="https://github.com/sap218/quality-of-life-ontology/tree/master/ontology/QoL.owl">
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -14,7 +13,7 @@
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Annotation>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <Literal>Quality of Life Ontology</Literal>
+        <Literal>Quality of Life (QoL) Ontology</Literal>
     </Annotation>
     <Declaration>
         <Class IRI="#QOL_00001"/>
@@ -259,77 +258,305 @@
     <Declaration>
         <Class IRI="#QOL_00081"/>
     </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00082"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00083"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00084"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00085"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00086"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00087"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00088"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00089"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00090"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00091"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00092"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00093"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00094"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00095"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00096"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00097"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00098"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00099"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00100"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00101"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00102"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00103"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00104"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00105"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00106"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00107"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00108"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00109"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00110"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00111"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00112"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00113"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00114"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00115"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00116"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00117"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00118"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00119"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00120"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00121"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00122"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00123"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00124"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00125"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00126"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00127"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00128"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00129"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00130"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00131"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00132"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00133"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00134"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00135"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00136"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00137"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00138"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00139"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00140"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00141"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00142"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00143"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00144"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00145"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00146"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00147"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00148"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00149"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00150"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00151"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00152"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00153"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00154"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00155"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00156"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QOL_00157"/>
+    </Declaration>
     <SubClassOf>
         <Class IRI="#QOL_00002"/>
         <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00003"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00004"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00005"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00006"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00007"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00008"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00009"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00008"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00010"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00008"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00011"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00008"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00012"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00008"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00013"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00008"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00014"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00015"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00014"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00016"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00014"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00017"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00014"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00018"/>
-        <Class IRI="#QOL_00002"/>
+        <Class IRI="#QOL_00001"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00019"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00020"/>
@@ -349,203 +576,203 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00024"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00025"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00026"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00027"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00028"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00029"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00030"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00031"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00032"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00033"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00034"/>
-        <Class IRI="#QOL_00024"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00035"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00036"/>
-        <Class IRI="#QOL_00035"/>
+        <Class IRI="#QOL_00019"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00037"/>
-        <Class IRI="#QOL_00035"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00038"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00037"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00039"/>
-        <Class IRI="#QOL_00038"/>
+        <Class IRI="#QOL_00037"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00040"/>
-        <Class IRI="#QOL_00038"/>
+        <Class IRI="#QOL_00037"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00041"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00037"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00042"/>
-        <Class IRI="#QOL_00041"/>
+        <Class IRI="#QOL_00037"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00043"/>
-        <Class IRI="#QOL_00041"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00044"/>
-        <Class IRI="#QOL_00041"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00045"/>
-        <Class IRI="#QOL_00041"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00046"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00047"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00048"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00049"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00050"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00051"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00052"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00053"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00054"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00055"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00056"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00057"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00043"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00058"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00059"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00058"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00060"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00061"/>
-        <Class IRI="#QOL_00046"/>
+        <Class IRI="#QOL_00060"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00062"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00060"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00063"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00060"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00064"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00065"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00064"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00066"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00064"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00067"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00064"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00068"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00069"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00068"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00070"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00068"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00071"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00068"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00072"/>
-        <Class IRI="#QOL_00062"/>
+        <Class IRI="#QOL_00068"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00073"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00018"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00074"/>
@@ -565,424 +792,1096 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00078"/>
-        <Class IRI="#QOL_00001"/>
+        <Class IRI="#QOL_00073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00079"/>
-        <Class IRI="#QOL_00078"/>
+        <Class IRI="#QOL_00073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00080"/>
-        <Class IRI="#QOL_00078"/>
+        <Class IRI="#QOL_00073"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#QOL_00081"/>
-        <Class IRI="#QOL_00078"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00082"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00083"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00084"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00085"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00086"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00087"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00088"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00089"/>
+        <Class IRI="#QOL_00073"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00090"/>
+        <Class IRI="#QOL_00018"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00091"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00092"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00093"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00094"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00095"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00096"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00097"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00098"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00099"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00100"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00101"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00102"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00103"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00104"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00105"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00106"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00107"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00108"/>
+        <Class IRI="#QOL_00090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00109"/>
+        <Class IRI="#QOL_00018"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00110"/>
+        <Class IRI="#QOL_00109"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00111"/>
+        <Class IRI="#QOL_00109"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00112"/>
+        <Class IRI="#QOL_00109"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00113"/>
+        <Class IRI="#QOL_00109"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00114"/>
+        <Class IRI="#QOL_00018"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00115"/>
+        <Class IRI="#QOL_00114"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00116"/>
+        <Class IRI="#QOL_00114"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00117"/>
+        <Class IRI="#QOL_00114"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00118"/>
+        <Class IRI="#QOL_00114"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00119"/>
+        <Class IRI="#QOL_00114"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00120"/>
+        <Class IRI="#QOL_00001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00121"/>
+        <Class IRI="#QOL_00001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00123"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00124"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00125"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00126"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00127"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00128"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00129"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00130"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00131"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00132"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00133"/>
+        <Class IRI="#QOL_00122"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00135"/>
+        <Class IRI="#QOL_00134"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00136"/>
+        <Class IRI="#QOL_00135"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00137"/>
+        <Class IRI="#QOL_00136"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00138"/>
+        <Class IRI="#QOL_00137"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00139"/>
+        <Class IRI="#QOL_00136"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00140"/>
+        <Class IRI="#QOL_00139"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00141"/>
+        <Class IRI="#QOL_00139"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00142"/>
+        <Class IRI="#QOL_00139"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00143"/>
+        <Class IRI="#QOL_00139"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00144"/>
+        <Class IRI="#QOL_00139"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00145"/>
+        <Class IRI="#QOL_00139"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00147"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00148"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00149"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00150"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00151"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00152"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00153"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00154"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00155"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00156"/>
+        <Class IRI="#QOL_00146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QOL_00157"/>
+        <Class IRI="#QOL_00146"/>
     </SubClassOf>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00001</IRI>
-        <Literal xml:lang="en">Symptoms</Literal>
+        <Literal xml:lang="en">Domain</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00002</IRI>
-        <Literal xml:lang="en">Neurological symptoms</Literal>
+        <Literal xml:lang="en">Activity limitation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00003</IRI>
-        <Literal xml:lang="en">Headache</Literal>
+        <Literal xml:lang="en">Mobility</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00004</IRI>
-        <Literal xml:lang="en">Performance of skilled tasks</Literal>
+        <Literal xml:lang="en">Emotional</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00005</IRI>
-        <Literal xml:lang="en">Tremor</Literal>
+        <Literal xml:lang="en">Social</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00006</IRI>
-        <Literal xml:lang="en">Insomnia</Literal>
+        <Literal xml:lang="en">Convenience</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00007</IRI>
-        <Literal xml:lang="en">Paraesthesia</Literal>
+        <Literal xml:lang="en">Health concerns</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00008</IRI>
-        <Literal xml:lang="en">Confusion</Literal>
+        <Literal xml:lang="en">Visual symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00009</IRI>
-        <Literal xml:lang="en">Dizziness/ vertigo</Literal>
+        <Literal xml:lang="en">Reduction in visual acuity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00010</IRI>
-        <Literal xml:lang="en">Convulsions</Literal>
+        <Literal xml:lang="en">Reduction in colour vision</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00011</IRI>
-        <Literal xml:lang="en">Incoordination</Literal>
+        <Literal xml:lang="en">Reduction in contrast sensitivity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00012</IRI>
-        <Literal xml:lang="en">Hearing abnormality</Literal>
+        <Literal xml:lang="en">Reduction in peripheral field of vision</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00013</IRI>
-        <Literal xml:lang="en">Thinking abnormal</Literal>
+        <Literal xml:lang="en">Reduction in central field of vision</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00014</IRI>
-        <Literal xml:lang="en">Speech impairment</Literal>
+        <Literal xml:lang="en">Ocular comfort symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00015</IRI>
-        <Literal xml:lang="en">Memory problems</Literal>
+        <Literal xml:lang="en">Pain at rest</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00016</IRI>
-        <Literal xml:lang="en">Abnormal sensation</Literal>
+        <Literal xml:lang="en">Pain on eye movement</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00017</IRI>
-        <Literal xml:lang="en">Drowsiness</Literal>
+        <Literal xml:lang="en">Pain on blink</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00018</IRI>
-        <Literal xml:lang="en">Migraine</Literal>
+        <Literal xml:lang="en">General symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00019</IRI>
-        <Literal xml:lang="en">Psychiatric symptoms</Literal>
+        <Literal xml:lang="en">Neurological symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00020</IRI>
-        <Literal xml:lang="en">Depression</Literal>
+        <Literal xml:lang="en">Headache</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00021</IRI>
-        <Literal xml:lang="en">Anxiety</Literal>
+        <Literal xml:lang="en">Performance of skilled tasks</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00022</IRI>
-        <Literal xml:lang="en">Psychosis</Literal>
+        <Literal xml:lang="en">Tremor</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00023</IRI>
-        <Literal xml:lang="en">Mood swings/ alterations</Literal>
+        <Literal xml:lang="en">Insomnia</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00024</IRI>
-        <Literal xml:lang="en">Gastrointestinal symptoms</Literal>
+        <Literal xml:lang="en">Paraesthesia, tingling</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00025</IRI>
-        <Literal xml:lang="en">Dyspepsia/ GI discomfort</Literal>
+        <Literal xml:lang="en">Confusion</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00026</IRI>
-        <Literal xml:lang="en">Abdominal pain/ distress</Literal>
+        <Literal xml:lang="en">Dizziness/ vertigo</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00027</IRI>
-        <Literal xml:lang="en">Jaundice</Literal>
+        <Literal xml:lang="en">Convulsions</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00028</IRI>
-        <Literal xml:lang="en">Diarrhoea</Literal>
+        <Literal xml:lang="en">Incoordination</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00029</IRI>
-        <Literal xml:lang="en">Decreased appetite</Literal>
+        <Literal xml:lang="en">Hearing abnormality</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00030</IRI>
-        <Literal xml:lang="en">Nausea/  vomiting</Literal>
+        <Literal xml:lang="en">Thinking abnormal</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00031</IRI>
-        <Literal xml:lang="en">Constipation</Literal>
+        <Literal xml:lang="en">Speech impairment</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00032</IRI>
-        <Literal xml:lang="en">Altered taste</Literal>
+        <Literal xml:lang="en">Memory problems</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00033</IRI>
-        <Literal xml:lang="en">Dysphagia</Literal>
+        <Literal xml:lang="en">Abnormal sensation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00034</IRI>
-        <Literal xml:lang="en">Mouth/ throat irritation</Literal>
+        <Literal xml:lang="en">Drowsiness</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00035</IRI>
-        <Literal xml:lang="en">Cardiac symptoms</Literal>
+        <Literal xml:lang="en">Migraine</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00036</IRI>
-        <Literal xml:lang="en">Palpitations</Literal>
+        <Literal xml:lang="en">Concentration</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00037</IRI>
-        <Literal xml:lang="en">Chest pain</Literal>
+        <Literal xml:lang="en">Psychiatric symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00038</IRI>
-        <Literal xml:lang="en">Respiratory symptoms</Literal>
+        <Literal xml:lang="en">Depression, sad</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00039</IRI>
-        <Literal xml:lang="en">Dyspnoea</Literal>
+        <Literal xml:lang="en">Anxiety</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00040</IRI>
-        <Literal xml:lang="en">Cough</Literal>
+        <Literal xml:lang="en">Psychosis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00041</IRI>
-        <Literal xml:lang="en">Musculoskeletal</Literal>
+        <Literal xml:lang="en">Mood swings/ alterations</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00042</IRI>
-        <Literal xml:lang="en">Muscle cramps/ pain</Literal>
+        <Literal xml:lang="en">Discouraged- PRO CTCAE</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00043</IRI>
-        <Literal xml:lang="en">Arthralgia</Literal>
+        <Literal xml:lang="en">Gastrointestinal symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00044</IRI>
-        <Literal xml:lang="en">Muscle weakness</Literal>
+        <Literal xml:lang="en">Dyspepsia/ GI discomfort, heartburn</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00045</IRI>
-        <Literal xml:lang="en">Muscle tone increased</Literal>
+        <Literal xml:lang="en">Abdominal pain/ distress</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00046</IRI>
-        <Literal xml:lang="en">General</Literal>
+        <Literal xml:lang="en">Jaundice</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00047</IRI>
-        <Literal xml:lang="en">Fatigue</Literal>
+        <Literal xml:lang="en">Diarrhoea</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00048</IRI>
-        <Literal xml:lang="en">Weight gain</Literal>
+        <Literal xml:lang="en">Decreased appetite</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00049</IRI>
-        <Literal xml:lang="en">Weight loss</Literal>
+        <Literal xml:lang="en">Nausea</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00050</IRI>
-        <Literal xml:lang="en">Night sweats</Literal>
+        <Literal xml:lang="en">Vomiting</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00051</IRI>
-        <Literal xml:lang="en">Flushing</Literal>
+        <Literal xml:lang="en">Constipation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00052</IRI>
-        <Literal xml:lang="en">Oedema</Literal>
+        <Literal xml:lang="en">Altered taste</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00053</IRI>
-        <Literal xml:lang="en">Pain/ in extremity</Literal>
+        <Literal xml:lang="en">Dysphagia</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00054</IRI>
-        <Literal xml:lang="en">Fever</Literal>
+        <Literal xml:lang="en">Gas</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00055</IRI>
-        <Literal xml:lang="en">Gynaecomastia</Literal>
+        <Literal xml:lang="en">Bloating</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00056</IRI>
-        <Literal xml:lang="en">Gum hyperplasia</Literal>
+        <Literal xml:lang="en">Hiccups</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00057</IRI>
-        <Literal xml:lang="en">Hair changes</Literal>
+        <Literal xml:lang="en">Fecal incontinence</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00058</IRI>
-        <Literal xml:lang="en">Malaise</Literal>
+        <Literal xml:lang="en">Oral</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00059</IRI>
-        <Literal xml:lang="en">Chills</Literal>
+        <Literal xml:lang="en">Mouth/ throat irritation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00060</IRI>
-        <Literal xml:lang="en">Ear pain</Literal>
+        <Literal xml:lang="en">Cardiac symptoms and circulatory</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00061</IRI>
-        <Literal xml:lang="en">Dehydration</Literal>
+        <Literal xml:lang="en">Palpitations</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00062</IRI>
-        <Literal xml:lang="en">Skin</Literal>
+        <Literal xml:lang="en">Chest pain</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00063</IRI>
-        <Literal xml:lang="en">Pruritis</Literal>
+        <Literal xml:lang="en">Swelling</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00064</IRI>
-        <Literal xml:lang="en">Alopecia</Literal>
+        <Literal xml:lang="en">Respiratory symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00065</IRI>
-        <Literal xml:lang="en">Rash</Literal>
+        <Literal xml:lang="en">Dyspnoea, shortness of breath</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00066</IRI>
-        <Literal xml:lang="en">Sweating/ sweat changes</Literal>
+        <Literal xml:lang="en">Cough</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00067</IRI>
-        <Literal xml:lang="en">Acne</Literal>
+        <Literal xml:lang="en">Wheezing</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00068</IRI>
-        <Literal xml:lang="en">Photosensitivity</Literal>
+        <Literal xml:lang="en">Musculoskeletal</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00069</IRI>
-        <Literal xml:lang="en">Skin reactions</Literal>
+        <Literal xml:lang="en">Muscle cramps/ pain</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00070</IRI>
-        <Literal xml:lang="en">Impaired healing</Literal>
+        <Literal xml:lang="en">Arthralgia, joint pain</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00071</IRI>
-        <Literal xml:lang="en">Nail discolouration</Literal>
+        <Literal xml:lang="en">Muscle weakness</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00072</IRI>
-        <Literal xml:lang="en">Tumours</Literal>
+        <Literal xml:lang="en">Muscle tone increased</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00073</IRI>
-        <Literal xml:lang="en">Urogenital/ Gynae</Literal>
+        <Literal xml:lang="en">General</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00074</IRI>
-        <Literal xml:lang="en">Dysuria/ cystitis</Literal>
+        <Literal xml:lang="en">Fatigue</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00075</IRI>
-        <Literal xml:lang="en">Vulvovaginal symptoms including ulcers</Literal>
+        <Literal xml:lang="en">Weight gain</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00076</IRI>
-        <Literal xml:lang="en">Menstrual disturbance/ cycle irregularities</Literal>
+        <Literal xml:lang="en">Weight loss</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00077</IRI>
-        <Literal xml:lang="en">Sexual dysfunction</Literal>
+        <Literal xml:lang="en">Night sweats</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00078</IRI>
-        <Literal xml:lang="en">Eyes</Literal>
+        <Literal xml:lang="en">Flushing</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00079</IRI>
-        <Literal xml:lang="en">Inflammation</Literal>
+        <Literal xml:lang="en">Oedema</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00080</IRI>
-        <Literal xml:lang="en">Visual impairment/ disorders</Literal>
+        <Literal xml:lang="en">General pain</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#QOL_00081</IRI>
-        <Literal xml:lang="en">Lacrimation disorder</Literal>
+        <Literal xml:lang="en">Fever</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00082</IRI>
+        <Literal xml:lang="en">Gynaecomastia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00083</IRI>
+        <Literal xml:lang="en">Gum hyperplasia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00084</IRI>
+        <Literal xml:lang="en">Hair changes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00085</IRI>
+        <Literal xml:lang="en">Malaise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00086</IRI>
+        <Literal xml:lang="en">Chills</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00087</IRI>
+        <Literal xml:lang="en">Ear pain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00088</IRI>
+        <Literal xml:lang="en">Ringing in ears, tinnitus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00089</IRI>
+        <Literal xml:lang="en">Dehydration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00090</IRI>
+        <Literal xml:lang="en">Skin/ Cutaenous</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00091</IRI>
+        <Literal xml:lang="en">Pruritis, itching</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00092</IRI>
+        <Literal xml:lang="en">Alopecia, hair loss</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00093</IRI>
+        <Literal xml:lang="en">Rash</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00094</IRI>
+        <Literal xml:lang="en">Sweating/ sweat changes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00095</IRI>
+        <Literal xml:lang="en">Acne</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00096</IRI>
+        <Literal xml:lang="en">Photosensitivity, sensitivity to sunlight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00097</IRI>
+        <Literal xml:lang="en">Skin reactions, hives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00098</IRI>
+        <Literal xml:lang="en">Impaired healing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00099</IRI>
+        <Literal xml:lang="en">Nail discolouration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00100</IRI>
+        <Literal xml:lang="en">Tumours</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00101</IRI>
+        <Literal xml:lang="en">Skin dryness</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00102</IRI>
+        <Literal xml:lang="en">Hand-foot syndrome</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00103</IRI>
+        <Literal xml:lang="en">Nail loss</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00104</IRI>
+        <Literal xml:lang="en">Nail ridging</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00105</IRI>
+        <Literal xml:lang="en">Stretch marks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00106</IRI>
+        <Literal xml:lang="en">Skin darkening</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00107</IRI>
+        <Literal xml:lang="en">Bed pressure sores</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00108</IRI>
+        <Literal xml:lang="en">Radiation skin reaction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00109</IRI>
+        <Literal xml:lang="en">Urogenital/ Gynae</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00110</IRI>
+        <Literal xml:lang="en">Dysuria/ cystitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00111</IRI>
+        <Literal xml:lang="en">Vulvovaginal symptoms including ulcers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00112</IRI>
+        <Literal xml:lang="en">Menstrual disturbance/ cycle irregularities, irregular periods / vaginal bleeding</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00113</IRI>
+        <Literal xml:lang="en">Sexual dysfunction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00114</IRI>
+        <Literal xml:lang="en">Eyes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00115</IRI>
+        <Literal xml:lang="en">Inflammation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00116</IRI>
+        <Literal xml:lang="en">Visual impairment/ disorders, blurred vision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00117</IRI>
+        <Literal xml:lang="en">Lacrimation disorder, watery eyes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00118</IRI>
+        <Literal xml:lang="en">Flashing lights</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00119</IRI>
+        <Literal xml:lang="en">Visual floaters</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00120</IRI>
+        <Literal xml:lang="en">Economic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00121</IRI>
+        <Literal xml:lang="en">Coping</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00122</IRI>
+        <Literal xml:lang="en">Drugs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00123</IRI>
+        <Literal xml:lang="en">NIH PRO-CTCAE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00124</IRI>
+        <Literal xml:lang="en">TACROLIMUS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00125</IRI>
+        <Literal xml:lang="en">CICLOSPORIN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00126</IRI>
+        <Literal xml:lang="en">AZATHIOPRINE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00127</IRI>
+        <Literal xml:lang="en">MYCOPHENOLATE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00128</IRI>
+        <Literal xml:lang="en">METHOTREXATE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00129</IRI>
+        <Literal xml:lang="en">PREDNISOLONE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00130</IRI>
+        <Literal xml:lang="en">ADALIMUMAB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00131</IRI>
+        <Literal xml:lang="en">INFLIXIMAB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00132</IRI>
+        <Literal xml:lang="en">RITUXIMAB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00133</IRI>
+        <Literal xml:lang="en">TOCILIZUMAB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00134</IRI>
+        <Literal xml:lang="en">Abnormal inflammatory response</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00135</IRI>
+        <Literal xml:lang="en">Abnormal eye physiology</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00136</IRI>
+        <Literal xml:lang="en">Increased inflammatory response</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00137</IRI>
+        <Literal xml:lang="en">Optic neuritis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00138</IRI>
+        <Literal xml:lang="en">Retrobulbar optic neuritis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00139</IRI>
+        <Literal xml:lang="en">Inflammatory abnormality of the eye</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00140</IRI>
+        <Literal xml:lang="en">Scleritis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00141</IRI>
+        <Literal xml:lang="en">Uveitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00142</IRI>
+        <Literal xml:lang="en">Episcleritis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00143</IRI>
+        <Literal xml:lang="en">Keratitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00144</IRI>
+        <Literal xml:lang="en">Conjunctivitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00145</IRI>
+        <Literal xml:lang="en">Blepharitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00146</IRI>
+        <Literal xml:lang="en">Systemic diseases</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00147</IRI>
+        <Literal xml:lang="en">Sarcoidosis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00148</IRI>
+        <Literal xml:lang="en">Ankylosing spondylitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00149</IRI>
+        <Literal xml:lang="en">Crohns</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00150</IRI>
+        <Literal xml:lang="en">Ulcerative colitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00151</IRI>
+        <Literal xml:lang="en">Reactive arthritis/ Reiters</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00152</IRI>
+        <Literal xml:lang="en">Psoriasis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00153</IRI>
+        <Literal xml:lang="en">Multiple sclerosis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00154</IRI>
+        <Literal xml:lang="en">Behcet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00155</IRI>
+        <Literal xml:lang="en">Vogt-Koyanagi-Harada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00156</IRI>
+        <Literal xml:lang="en">Tubulointerstitial nephritis and uveitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#QOL_00157</IRI>
+        <Literal xml:lang="en">Juvenille idiopathic arthritis</Literal>
     </AnnotationAssertion>
 </Ontology>
 
