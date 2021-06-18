@@ -1,12 +1,12 @@
-# Quality of Life Ontology QOL
+# Quality of Life Ontology QoLo
 
 **Components**
-* **`ontology`** directory with `QoL.OWL`
+* **`ontology`** directory with `QoLo.OWL`
 
 **GitClone**
 
 ```
-$ git clone https://github.com/sap218/Quality-Of-Life-Ontology.git
+$ git clone https://github.com/sap218/qolo.git
 ```
 
 **Usage**
