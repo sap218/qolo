@@ -1,7 +1,7 @@
 # Quality of Life Ontology QoLo
 
 **Components**
-* **`ontology`** directory with `QoLo.OWL`
+* **`ontology`** directory with `qolo.owl`
 
 **GitClone**
 
