@@ -1,4 +1,4 @@
-# Quality of Life Ontology QoLo
+# Quality of Life Ontology QoLO
 
 **Components**
 * **`ontology`** directory with `qolo.owl`
