@@ -47,7 +47,7 @@ Below we follow the MIRO guidelines for reporting on an ontology [1].
   * E.2 Used [Protégé](https://protege.stanford.edu/) to develop the ontology with Git version control.
   * E.3 Ontology metrics, as of 21-09-2021 version 0.0.1 (see [`CHANGELOG.md`](https://github.com/sap218/qolo/blob/master/CHANGELOG.md)) there are a total of XXX classes, XXX relationships and axioms, XXX annotations, including XXX database cross-references, and XXX patient-preferred synonyms.
   * E.4 Cross-references ontologies inclue: (ontology w/ [citation])
-  * E.5 IRI for QoLO is: `https://github.com/sap218/qolo/blob/master/qolo.owl#QOL_00000`.
+  * E.5 IRI for QoLO is: `https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00000`.
   * E.6 Identifier generation policy: Protégé’s preferences schema is that ontology’s entities are to have the prefix “QOL” followed by an underscore then a five digit number: currently they consists of 00001 up to ~00000. All classes have QOL prefix and own numeric identifier since QoLO avoids importing axioms from other ontologies.
   * E.7 Entity metadata policy: currently `exact` synonyms in the ontology are additional clinical/medical terms. However `layperson` synonyms are to be used for all Layman terms...
   * E.8 RO [2] and BFO were used as upper ontologies for relationships.
