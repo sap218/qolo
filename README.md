@@ -10,7 +10,6 @@
 * [Samantha Pendleton](https://twitter.com/sap218) Institute of Cancer and Genomic Sciences, University of Birmingham, UK
 * [Tasanee Braithwaite](https://twitter.com/tasbraithwaite) The Medical Eye Unit, St Thomas’ Hospital NHS Foundation Trust, London UK
 * [Charles ODonovan]() Kings College London, London UK
-* [Rosie Gilbert]()
 
 **Note**: see [MIRO guidelines](MIRO.md) which we follow for reporting QoLO
 

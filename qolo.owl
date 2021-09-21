@@ -1,14 +1,109 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="https://github.com/sap218/qolo/blob/master/qolo.owl"
      xml:base="https://github.com/sap218/qolo/blob/master/qolo.owl"
+     xmlns:hp="http://purl.obolibrary.org/obo/hp#"
+     xmlns:hp1="http://purl.obolibrary.org/obo/hp.owl#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOWL="http://www.geneontology.org/formats/oboInOWL#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:layperson="http://purl.obolibrary.org/obo/hp#layperson">
     <owl:Ontology rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl">
+        <rdfs:comment>An Ontology for Quality of Life</rdfs:comment>
         <rdfs:comment>Quality of Life Ontology QoLO</rdfs:comment>
+        <rdfs:contributor>Charles ODonovan</rdfs:contributor>
+        <rdfs:contributor>Tasanee Braithwaite</rdfs:contributor>
+        <rdfs:creator>Samantha Pendleton</rdfs:creator>
+        <rdfs:github>https://github.com/sap218/qolo</rdfs:github>
+        <rdfs:license>https://creativecommons.org/licenses/by/3.0/</rdfs:license>
+        <rdfs:version>version 0.0.1</rdfs:version>
     </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/hp.owl#layperson -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/hp.owl#layperson"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#DbXref -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#DbXref"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasExactSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#contributor"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#creator -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#creator"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#derived-from-resource -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#derived-from-resource"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#github -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#github"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#license -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#license"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#version -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#version"/>
     
 
 
