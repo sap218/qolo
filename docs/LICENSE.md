@@ -1,3 +1,9 @@
+# QoLO Documentation
+
+[Home](README.md) | [Documentation](MIRO) | [License](LICENSE) | [Changelog](CHANGELOG) | [Manuscript]() | [Bioportal]()
+
+## License
+
 The content of QoLO is licensed under CC-BY (https://creativecommons.org/licenses/by/3.0/).
 
 You are free to:
