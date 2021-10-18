@@ -1909,6 +1909,399 @@
         <oboInOwl:DbXref>CP25</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Concerned about withdrawing</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00172 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00172">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN12</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about not being able to work</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00173 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00173">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC2</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about work opportunities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00174 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00174">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about costs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00175 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00175">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about hiring help</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00176 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00176">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC3</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about finding employment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00177 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00177">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC3</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC4</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN14</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about taking time off work</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00178 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00178">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC4</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about work relationships</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00179 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00179">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC7</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC6</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN18</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about financial impact</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00180 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00180">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about changing lifestyle due to reduced income</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00181 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00181">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about cost of treatment for AMD</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00182 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00182">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC15</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about buying glasses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00183 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00183">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC15</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about buying visual aids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00184 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00184">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about the cost of mistakes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00185 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00185">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN11</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about work being affected</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00186 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00186">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC6</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about losing job</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00187 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00187">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC6</oboInOwl:DbXref>
+        <oboInOwl:DbXref>G-EC20</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN1</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about specialist costs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00188 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00188">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC22</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about making financial decisions</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00189 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00189">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>EC8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about cost of private health insurance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00190 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00190">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about payment for treatment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00191 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00191">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about managing finances</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00192 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00192">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about needing others to take time off work</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00193 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00193">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>SN2</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about initial cost for glasses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00194 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00194">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>SN3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about costs for maintenance of glasses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00195 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00195">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>SN4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about initial cost for contact lenses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>SN5</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about costs for maintenance of contact lenses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00197 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00197">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>SN6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about cost of laser surgery</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00198 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00198">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>AMD-EC14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about costs of insurance covering</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00199 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00199">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>G-EC7</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about restrictions to choice of career</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00200 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00200">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>G-EC6</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about career being compromised</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00201 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00201">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>G-EC8</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN13</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about reducing work hours</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00202 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00202">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>G-EC10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about keeping up with work</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00203 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00203">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about job limitations</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00204 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00204">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about losing job opportunities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00205 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00205">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about costs of surgery</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00206 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00206">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
+        <oboInOwl:DbXref>EC9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about cost of lazy eye treatment</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
