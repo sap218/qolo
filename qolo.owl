@@ -2151,8 +2151,11 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00192 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00192">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120"/>
         <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC6</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC9</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Concerned about needing others to take time off work</rdfs:label>
     </owl:Class>
     
@@ -2822,6 +2825,570 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
         <oboInOwl:DbXref>SY13</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Patches of vision missing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00253 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00253">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems meeting family</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00254 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00254">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems meeting friends</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00255 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00255">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO20</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Family making issue of eye problems</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00256 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00256">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO20</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Friends making issue of eye problems</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00257 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00257">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC7</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC9</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Strain in family relationships</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00258 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00258">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC8</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN1</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems attending events</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00259 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00259">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>G-SC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN11</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems with children</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00260 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00260">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>G-SC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN11</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems with grandchildren</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00261 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00261">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC15</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO11</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems in social activities during night</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00262 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00262">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems in social functions</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00263 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00263">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Strain in relationships</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00264 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00264">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC18</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems meeting a partner</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00265 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00265">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>G-SC14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC19</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN14</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining responsibilities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00266 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00266">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN12</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining social life</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00267 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00267">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC15</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC20</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN13</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining social groups</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00268 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00268">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC21</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC22</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaing community roles</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00269 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00269">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC3</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining friendships</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00270 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00270">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems entertaining at home</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00271 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00271">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO5</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems interacting with people</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00272 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00272">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC6</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems meeting people for the first time</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00273 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00273">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SC7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems interacting with strangers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00274 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00274">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC8</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN7</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems making new friends</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00275 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00275">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC19</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems being a part in activities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00276 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00276">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems eating out</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00277 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00277">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC17</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems chatting</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00278 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00278">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SC20</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO1</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Not seeing people as often</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00279 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00279">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC17</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining close relationships</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00280 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00280">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems getting help from family</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00281 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00281">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems getting support from family</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00282 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00282">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems getting help from friends</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00283 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00283">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-SC18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems getting support from friends</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00284 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00284">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems getting support from organisations</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00285 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00285">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems in social activities during day</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00286 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00286">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SO6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining social connections</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00287 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00287">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>HRD-SC19</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems going out</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00288 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00288">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SN8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems making social relationships</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00289 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00289">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>HRD-SC28</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Not being aware of what others are doing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00290 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00290">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SN16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining role as parent</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00291 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00291">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO2</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems engaging in social activities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00292 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00292">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems engaing in family activities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00293 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00293">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems going out due to eye condition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00294 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00294">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems maintaining responsibilities at work</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00295 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00295">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO12</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems socialising due to not able to maintain eye contact</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00296 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00296">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO13</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems socialising due to others uncomfortable</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00297 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00297">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO14</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems socialising due to others comments</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00298 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00298">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems socialising due to the way others are looking</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00299 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00299">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems socialising with peers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00300 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00300">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems socialising with others</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00301 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00301">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO18</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems talking to people of opposite gender</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00302 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00302">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO19</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems with family annoyed with mistakes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00303 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00303">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00005"/>
+        <oboInOwl:DbXref>SO19</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Problems with friend annoyed with mistakes</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
