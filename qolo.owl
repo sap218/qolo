@@ -1173,12 +1173,275 @@
     
 
 
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00095 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00095">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>SN1</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about squinting to see</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00096 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00096">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-CP1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN2</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about accepting eye condition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00097 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00097">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>HRD-CP3</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about learning to live with refractive error</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00098 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00098">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>HRD-CP5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about learning to live differently</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00099 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00099">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>SN5</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about reorganising workload</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00100 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00100">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP17</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-CP2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about people much worse off</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00101 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00101">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>HRD-CP7</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about getting professional support</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00102 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00102">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>HRD-CP28</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about having peer support</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00103 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00103">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP20</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-CP10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about being positive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00104 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00104">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP19</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-CP14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about balancing life</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00105 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00105">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>HRD-CP9</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN11</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about thinking about eye condition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00106 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00106">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>SN12</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about avoiding tasks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00107 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00107">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>SN13</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about glasses problems</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00108 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00108">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP2</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about adopting different head posture</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00109 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00109">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about aging eye problems</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00110 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00110">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about avoiding difficult tasks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00111 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00111">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP5</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about organisation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00112 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00112">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about being strong</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00113 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00113">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about being with people</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00114 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00114">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about needing to close one eye</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00115 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00115">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about communicating your eye condition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00116 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00116">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about taking part in easier activities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00117 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00117">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP11</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about support from others</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00118 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00118">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP12</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about hiding eye defect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00119 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00119">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP13</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about improving appearance</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00120">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
-        <oboInOwl:hasExactSynonym>Work and finance</oboInOwl:hasExactSynonym>
-        <rdfs:label xml:lang="en">Economic</rdfs:label>
+        <oboInOwl:hasExactSynonym>Economic</oboInOwl:hasExactSynonym>
+        <rdfs:label xml:lang="en">Work and finance</rdfs:label>
     </owl:Class>
     
 
@@ -1555,6 +1818,96 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00162">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122"/>
         <rdfs:label xml:lang="en">Corticosteroid</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00163 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00163">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP14</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about learning to live with eye condition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00164 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00164">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about not relating problems to eye condition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00165 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00165">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about not concentrating doing difficult things</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00166 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00166">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP18</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about thinking eye condition is not progressive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00167 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00167">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP21</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about using humour</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00168 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00168">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP22</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about using magnifying devices</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00169 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00169">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP23</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about using peripheral vision in worse eye</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00170 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00170">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP24</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about using vision aids</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00171 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00171">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00121"/>
+        <oboInOwl:DbXref>CP25</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Concerned about withdrawing</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
