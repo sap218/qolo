@@ -2302,6 +2302,527 @@
         <oboInOwl:DbXref>EC9</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Concerned about cost of lazy eye treatment</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00207 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00207">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS01</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS01</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN1</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY1</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Blurred vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00208 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00208">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Bubbles after injection</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00209 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00209">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Spots after injection</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00210 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00210">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS05</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS06</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN20</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Floaters in vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00211 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00211">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS06</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS07</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Distorted vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00212 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00212">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>G-SY9</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN25</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY14</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Haloes around lights</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00213 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00213">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN21</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Flashes of light</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00214 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00214">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN19</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY16</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty focusing eyes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00215 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00215">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS17</oboInOwl:DbXref>
+        <oboInOwl:DbXref>G-SY03</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS19</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN17</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty distinguishing contrast</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00216 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00216">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS15</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN16</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY12</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY18</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty distinguishing colors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00217 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00217">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY2</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Hazy vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00218 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00218">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS02</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN4</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY2</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Poor vision in one eye</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00219 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00219">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS02</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS03</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN11</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY3</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY5</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Feel like vision deteriorating</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00220 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00220">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS04</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS05</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN9</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY5</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Fluctuating vision during day</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00221 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00221">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS14</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS16</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN22</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Glare from lights</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00222 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00222">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS15</oboInOwl:DbXref>
+        <oboInOwl:DbXref>G-SY16</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS17</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN3</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Cloudy vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00223 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00223">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-VS16</oboInOwl:DbXref>
+        <oboInOwl:DbXref>HRD-VS18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN18</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SY17</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Double vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00224 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00224">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Dark patch in centre of vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00225 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00225">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Grey patch in centre of vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00226 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00226">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Tilted vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00227 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00227">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Wobbly vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00228 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00228">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Squashy vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00229 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00229">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Shadowy vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00230 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00230">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Wavy lines in vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00231 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00231">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Crooks in vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00232 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00232">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Bumps in centre of vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00233 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00233">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Things appear bigger</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00234 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00234">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN15</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Things appear smaller</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00235 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00235">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN5</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Blurred vision in rain</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00236 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00236">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>HRD-VS09</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Poor vision in dim light</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00237 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00237">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Blurred vision at a distance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00238 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00238">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN8</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Blurred vision near</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00239 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00239">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>HRD-VS08</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN10</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Feel like loss of peripheral vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00240 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00240">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN14</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">See objects with shadows</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00241 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00241">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN18</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty shifting focus between distances</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00242 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00242">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN23</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Glare from shiny surfaces</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00243 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00243">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>G-SY19</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN24</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Sensitivity to light</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00244 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00244">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SN26</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Starbursts</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00245 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00245">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>HRD-VS10</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN27</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty in depth perception</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00246 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00246">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>HRD-VS13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN28</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty in light adaption</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00247 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00247">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>HRD-VS13</oboInOwl:DbXref>
+        <oboInOwl:DbXref>SN28</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difficulty in dark adaption</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00248 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00248">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SY4</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Difference between eyes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00249 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00249">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SY6</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Poor vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00250 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00250">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SY7</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Temporary blindness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00251 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00251">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SY9</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Black lines in vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00252 -->
+
+    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00252">
+        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00008"/>
+        <oboInOwl:DbXref>SY13</oboInOwl:DbXref>
+        <rdfs:label xml:lang="en">Patches of vision missing</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
