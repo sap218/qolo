@@ -3929,7 +3929,7 @@
         <oboInOwl:DbXref>AL31</oboInOwl:DbXref>
         <oboInOwl:DbXref>AMD-AL18</oboInOwl:DbXref>
         <oboInOwl:DbXref>SN61</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty taking care of th</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty taking care of the garden</rdfs:label>
     </owl:Class>
     
 
@@ -4124,7 +4124,7 @@
         <oboInOwl:DbXref>AMD-AL28</oboInOwl:DbXref>
         <oboInOwl:DbXref>HRD-AL61</oboInOwl:DbXref>
         <oboInOwl:DbXref>SN36</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty putting on make up</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty putting on make-up</rdfs:label>
     </owl:Class>
     
 
@@ -4334,7 +4334,7 @@
         <oboInOwl:DbXref>AL31</oboInOwl:DbXref>
         <oboInOwl:DbXref>AL64</oboInOwl:DbXref>
         <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty finding things if you drop them on th</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty finding things if you drop them on the ground</rdfs:label>
     </owl:Class>
     
 
@@ -5060,7 +5060,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00444">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00002"/>
         <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty locating where th</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty locating where the golf ball landed after you hit it</rdfs:label>
     </owl:Class>
     
 
@@ -5318,7 +5318,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00469">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00002"/>
         <oboInOwl:DbXref>SN81</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty seeing at your car s dashboard clearly</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty seeing car dashboard clearly</rdfs:label>
     </owl:Class>
     
 
@@ -5438,7 +5438,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00481">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00002"/>
         <oboInOwl:DbXref>AL38</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty seeing 3 d movies or 3 d pictures</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty seeing 3D movies or 3D pictures</rdfs:label>
     </owl:Class>
     
 
@@ -5468,7 +5468,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00484">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00002"/>
         <oboInOwl:DbXref>AL45</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Difficulty sports</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty playing sports</rdfs:label>
     </owl:Class>
     
 
@@ -6413,7 +6413,7 @@
         <oboInOwl:DbXref>CO10</oboInOwl:DbXref>
         <oboInOwl:DbXref>HC1</oboInOwl:DbXref>
         <oboInOwl:DbXref>SN33</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned falling</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned about falling</rdfs:label>
     </owl:Class>
     
 
@@ -6423,7 +6423,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00575">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>HC3</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned losing your balance</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned about losing balance</rdfs:label>
     </owl:Class>
     
 
@@ -6443,7 +6443,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00577">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>HC11</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned being able to access services, e.g. low vision care</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned being unable to access services</rdfs:label>
     </owl:Class>
     
 
@@ -6552,7 +6552,7 @@
         <oboInOwl:DbXref>CO54</oboInOwl:DbXref>
         <oboInOwl:DbXref>HC2</oboInOwl:DbXref>
         <oboInOwl:DbXref>SN34</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned tripping</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned about tripping</rdfs:label>
     </owl:Class>
     
 
@@ -6763,7 +6763,7 @@
         <oboInOwl:DbXref>AMD-HC22</oboInOwl:DbXref>
         <oboInOwl:DbXref>G-HC2535</oboInOwl:DbXref>
         <oboInOwl:DbXref>SN18</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned medical complications from contact lens wear, e.g. redness, soreness, discomfort, irritation, infection</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned medical complications from contact lens wear</rdfs:label>
     </owl:Class>
     
 
@@ -6775,7 +6775,7 @@
         <oboInOwl:DbXref>AMD-HC22</oboInOwl:DbXref>
         <oboInOwl:DbXref>G-HC25</oboInOwl:DbXref>
         <oboInOwl:DbXref>SN19</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned medical complications from laser surgery, e.g. dryness, photophobia</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned medical complications from laser surgery</rdfs:label>
     </owl:Class>
     
 
@@ -6957,7 +6957,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
         <oboInOwl:DbXref>CO61</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned your good ey</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned good eye getting injured</rdfs:label>
     </owl:Class>
     
 
@@ -7040,7 +7040,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
         <oboInOwl:DbXref>CO33</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned not being able to carry on with your hobbies (e.g. going fishing, sporting events, going out for a walk)</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned not being able to carry on with your hobbies</rdfs:label>
     </owl:Class>
     
 
@@ -7131,7 +7131,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00637">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>SN21</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned having unwanted consequences of high refractive error, e.g. retinal tears, vitreous detachment</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned having unwanted consequences of high refractive error</rdfs:label>
     </owl:Class>
     
 
@@ -7161,7 +7161,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00640">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>SN28</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned your glasses or contact lenses falling off, e.g. when playing sports, travelling and doing other physical activities</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned your glasses or contact lenses falling off during activities</rdfs:label>
     </owl:Class>
     
 
@@ -7171,7 +7171,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00641">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>SN29</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned not being able to wear contact lenses, e.g. because of severe dryness, corneal scar</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned not being able to wear contact lenses</rdfs:label>
     </owl:Class>
     
 
@@ -7201,7 +7201,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00644">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>SN35</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned being at risk of eye injuries when playinhg contact sports, e.g. playing ball games</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned being at risk of eye injuries when playing sports</rdfs:label>
     </owl:Class>
     
 
@@ -7221,7 +7221,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00646">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO3</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned being dependent on th</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned being dependent on good eye</rdfs:label>
     </owl:Class>
     
 
@@ -7251,7 +7251,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00649">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO6</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned being left out, e.g. not selected for sports team</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned being left out</rdfs:label>
     </owl:Class>
     
 
@@ -7301,7 +7301,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00654">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO15</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned having accidents (motor vehicle related) e.g. car scratching, while parking</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned having car accidents</rdfs:label>
     </owl:Class>
     
 
@@ -7311,7 +7311,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00655">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO16</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned having accidents (non-motor vehicle related) e.g using tools like hammer</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned having task accidents</rdfs:label>
     </owl:Class>
     
 
@@ -7331,7 +7331,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00657">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO18</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned having just on</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned having just one good eye</rdfs:label>
     </owl:Class>
     
 
@@ -7451,7 +7451,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00669">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO32</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned not being able to enjoy 3d pictures or movies</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned not being able to enjoy 3D pictures or movies</rdfs:label>
     </owl:Class>
     
 
@@ -7581,7 +7581,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00682">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO51</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned the outcome of squint surgery e.g. over or undercorrected squint</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned the outcome of squint surgery</rdfs:label>
     </owl:Class>
     
 
@@ -7601,7 +7601,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00684">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00007"/>
         <oboInOwl:DbXref>CO55</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Concerned undergoing treatment for other eye disease in your good eye e.g. cataract surgery</rdfs:label>
+        <rdfs:label xml:lang="en">Concerned undergoing treatment for other eye disease in your good eye</rdfs:label>
     </owl:Class>
     
 
@@ -7757,7 +7757,7 @@
         <oboInOwl:DbXref>AMD-</oboInOwl:DbXref>
         <oboInOwl:DbXref>EM12</oboInOwl:DbXref>
         <oboInOwl:DbXref>EM18</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Feel like you have lost enjoyment in things, e.g. hobbies, interests, food</rdfs:label>
+        <rdfs:label xml:lang="en">Feel like you have lost enjoyment in things</rdfs:label>
     </owl:Class>
     
 
@@ -8962,7 +8962,7 @@
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00807">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00004"/>
         <oboInOwl:DbXref>EM19</oboInOwl:DbXref>
-        <rdfs:label xml:lang="en">Feel horrible about treatment you underwent, e.g. patching</rdfs:label>
+        <rdfs:label xml:lang="en">Feel horrible about treatment you underwent</rdfs:label>
     </owl:Class>
     
 
