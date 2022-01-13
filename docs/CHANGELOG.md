@@ -4,4 +4,4 @@
 
 ## Changelog
 
-* 07-12-2021 **version 1.0.0** - QoL domains and their x-refs to individual PROM instruments developed by Pesudovs et al.
+* 13-01-2022 **version 1.0.0** - QoL domains and their x-refs to individual PROM instruments developed by Pesudovs et al.

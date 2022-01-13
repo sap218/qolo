@@ -6,7 +6,8 @@
 
 * [Samantha Pendleton](mailto:samanfapc@gmail.com) University of Birmingham, UK
 * [Tasanee Braithwaite](mailto:tasaneebraithwaite@gmail.com) St Thomas’ Hospital NHS Foundation Trust, London UK
-* [Charles ODonovan](mailto:charles.odonovan@kcl.ac.uk) Kings College London, London UK
+* [Charles O'Donovan](mailto:charles.odonovan@kcl.ac.uk) Kings College London, London UK
+* [Konrad Pesudovs](mailto:konrad@pesudovs.com) University of New South Wales, AU
 
 ### About
 
