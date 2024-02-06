@@ -14,8 +14,8 @@
     <owl:Ontology rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl">
         <rdfs:comment>An Ontology for Quality of Life (QoLO)</rdfs:comment>
         <rdfs:contributor>Charles ODonovan</rdfs:contributor>
-        <rdfs:contributor>Tasanee Braithwaite</rdfs:contributor>
         <rdfs:contributor>Konrad Pesudovs</rdfs:contributor>
+        <rdfs:contributor>Tasanee Braithwaite</rdfs:contributor>
         <rdfs:creator>Samantha Pendleton</rdfs:creator>
         <rdfs:github>https://github.com/sap218/qolo</rdfs:github>
         <rdfs:license>https://creativecommons.org/licenses/by/3.0/</rdfs:license>
@@ -118,18 +118,9 @@
     
 
 
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001">
-        <rdfs:label xml:lang="en">Quality of life domains</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00002 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00002">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Activity limitation</rdfs:label>
     </owl:Class>
     
@@ -1569,373 +1560,6 @@
     
 
 
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00159"/>
-        <oboInOwl:hasExactSynonym>Drug</oboInOwl:hasExactSynonym>
-        <rdfs:label xml:lang="en">Medical therapy</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00123 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00123">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122"/>
-        <rdfs:label xml:lang="en">Nih pro-cate</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00124 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00124">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160"/>
-        <rdfs:label xml:lang="en">Tacrolimus</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00125 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00125">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160"/>
-        <rdfs:label xml:lang="en">Ciclosporin</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00126 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00126">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160"/>
-        <rdfs:label xml:lang="en">Azathioprine</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00127 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00127">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160"/>
-        <rdfs:label xml:lang="en">Mycophenolate</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00128 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00128">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160"/>
-        <rdfs:label xml:lang="en">Methotrexate</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00129 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00129">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00162"/>
-        <rdfs:label xml:lang="en">Prednisolone</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00130 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00130">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00161"/>
-        <rdfs:label xml:lang="en">Adalimumab</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00131 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00131">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00161"/>
-        <rdfs:label xml:lang="en">Infliximab</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00132 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00132">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00161"/>
-        <rdfs:label xml:lang="en">Rituximab</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00133 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00133">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00161"/>
-        <rdfs:label xml:lang="en">Tocilizumab</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00134 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00134">
-        <rdfs:label xml:lang="en">Abnormal inflammatory response</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00135 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00135">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00134"/>
-        <rdfs:label xml:lang="en">Abnormal eye physiology</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00136 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00136">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00135"/>
-        <rdfs:label xml:lang="en">Increased inflammatory response</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00137 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00137">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Optic neuritis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00138 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00138">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00137"/>
-        <rdfs:label xml:lang="en">Retrobulbar optic neuritis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00136"/>
-        <rdfs:label xml:lang="en">Inflammatory abnormality of the eye</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00140 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00140">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Scleritis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00141 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00141">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Uveitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00142 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00142">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Episcleritis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00143 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00143">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Keratitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00144 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00144">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Conjunctivitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00145 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00145">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00139"/>
-        <rdfs:label xml:lang="en">Blepharitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146">
-        <rdfs:label xml:lang="en">Systemic diseases</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00147 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00147">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Sarcoidosis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00148 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00148">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Ankylosing spondylitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00149 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00149">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Crohn&apos;s</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00150 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00150">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Ulcerative colitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00151 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00151">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Reactive arthritis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00152 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00152">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Psoriasis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00153 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00153">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Multiple sclerosis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00154 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00154">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Behcet</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00155 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00155">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Vogt-Koyanagi-Harada</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00156 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00156">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Tubulointerstitial nephritis and uveitis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00157 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00157">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Juvenille idiopathic arthritis</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00158 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00158">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00146"/>
-        <rdfs:label xml:lang="en">Reiters</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00159 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00159">
-        <rdfs:label xml:lang="en">Therapeutic intervention</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00160">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122"/>
-        <rdfs:label xml:lang="en">Steroid sparing immunosuppressive</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00161 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00161">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122"/>
-        <rdfs:label xml:lang="en">Biologic</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00162 -->
-
-    <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00162">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00122"/>
-        <rdfs:label xml:lang="en">Corticosteroid</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00163 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00163">
@@ -3029,7 +2653,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00265 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00265">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Mobility difficulty</rdfs:label>
     </owl:Class>
     
@@ -3443,7 +3066,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00311 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00311">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">General symptoms</rdfs:label>
     </owl:Class>
     
@@ -3633,7 +3255,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00328 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00328">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Visual symptoms</rdfs:label>
     </owl:Class>
     
@@ -4201,7 +3822,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00379 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00379">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Ocular comfort symptoms</rdfs:label>
     </owl:Class>
     
@@ -4533,7 +4153,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00408 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00408">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Health concerns</rdfs:label>
     </owl:Class>
     
@@ -5990,7 +5609,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00544 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00544">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Emotional</rdfs:label>
     </owl:Class>
     
@@ -7625,7 +7243,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00693 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00693">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Convenience</rdfs:label>
     </owl:Class>
     
@@ -8872,7 +8489,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00812 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00812">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Social</rdfs:label>
     </owl:Class>
     
@@ -9529,7 +9145,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00872 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00872">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Concerns about work and finance</rdfs:label>
     </owl:Class>
     
@@ -9943,7 +9558,6 @@
     <!-- https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00909 -->
 
     <owl:Class rdf:about="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00909">
-        <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <rdfs:label xml:lang="en">Coping</rdfs:label>
     </owl:Class>
     
