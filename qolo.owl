@@ -21,7 +21,7 @@
         <rdfs:github>https://github.com/sap218/qolo</rdfs:github>
         <rdfs:label>Quality of Life Ontology (QoLO)</rdfs:label>
         <rdfs:license>https://creativecommons.org/licenses/by/3.0/</rdfs:license>
-        <rdfs:version>version 1.1.2</rdfs:version>
+        <rdfs:version>version 1.1.1</rdfs:version>
     </owl:Ontology>
     
 
@@ -1240,7 +1240,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Recognizing food</rdfs:label>
+        <rdfs:label xml:lang="en">Recognising food</rdfs:label>
         <qolo:hasExpertDerivedSynonym>acknowledging food</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>appreciating food</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>identifying food</qolo:hasExpertDerivedSynonym>
@@ -1312,7 +1312,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Putting on make-up</rdfs:label>
+        <rdfs:label xml:lang="en">Putting on makeup</rdfs:label>
         <qolo:hasExpertDerivedSynonym>make up</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>make-up</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>makeup</qolo:hasExpertDerivedSynonym>
@@ -2993,7 +2993,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>RE_SN4</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Difficulty reading power point projected slides</rdfs:label>
+        <rdfs:label xml:lang="en">Difficulty reading powerpoint slides</rdfs:label>
         <qolo:hasExpertDerivedSynonym>presentation slides</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>reading microsoft slides</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>reading power point slides</qolo:hasExpertDerivedSynonym>
@@ -3147,7 +3147,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Riding motorcycle/moped</rdfs:label>
+        <rdfs:label xml:lang="en">Riding motorcycle</rdfs:label>
+        <qolo:hasExpertDerivedSynonym>riding moped</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>riding motorbike</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3339,9 +3340,14 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>Strab-Am_AL38</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">3 D movie, 3D movie, 3D film, 3 D film</rdfs:label>
+        <rdfs:label xml:lang="en">Seeing 3D movies</rdfs:label>
         <qolo:hasExpertDerivedSynonym>seeing 3 d motion</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>seeing 3 d movie</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>seeing 3 d pictures</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>seeing 3d motion</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>seeing 3d pictures</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>watching 3 d movies</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>watching 3d movies</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -3352,7 +3358,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>Strab-Am_AL40</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">seeing things at a far distance, see/seeing things far off</rdfs:label>
+        <rdfs:label xml:lang="en">seeing things at a far distance</rdfs:label>
+        <qolo:hasExpertDerivedSynonym>see/seeing things far off</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>seeing things far away</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3376,13 +3383,14 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>Strab-Am_AL45</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Sports, sport</rdfs:label>
+        <rdfs:label xml:lang="en">Sports</rdfs:label>
         <qolo:hasExpertDerivedSynonym>athletics</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>games</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>pasttimes</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>pe</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>physical exercies</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>physical games</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>sport</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -3406,7 +3414,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>Strab-Am_AL47</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Playing basketball, play basketball</rdfs:label>
+        <rdfs:label xml:lang="en">Playing basketball</rdfs:label>
+        <qolo:hasExpertDerivedSynonym>play basketball</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>playing b-ball</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>playing hoops</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3419,7 +3428,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>Strab-Am_AL47</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Playing netball, play netball</rdfs:label>
+        <rdfs:label xml:lang="en">Playing netball</rdfs:label>
+        <qolo:hasExpertDerivedSynonym>play netball</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>playing women&apos;s basketball</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3431,7 +3441,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00001"/>
         <oboInOwl:DbXref>Strab-Am_AL48</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Playing cricket, play</rdfs:label>
+        <rdfs:label xml:lang="en">Playing cricket</rdfs:label>
         <qolo:hasExpertDerivedSynonym>play cricket</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3786,7 +3796,7 @@
         <oboInOwl:DbXref>Glaucoma_CV17</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Having to rely on public transports to do day- to-day tasks</rdfs:label>
+        <rdfs:label xml:lang="en">Having to rely on public transports to do day-to-day tasks</rdfs:label>
         <qolo:hasExpertDerivedSynonym>rely on bus</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>rely on public transport</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>rely on tram</qolo:hasExpertDerivedSynonym>
@@ -4584,8 +4594,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>RE_SN15</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Having to wear  goggles over glasses</rdfs:label>
-        <qolo:hasExpertDerivedSynonym>having to wear  goggles over glasses</qolo:hasExpertDerivedSynonym>
+        <rdfs:label xml:lang="en">Having to wear goggles over glasses</rdfs:label>
+        <qolo:hasExpertDerivedSynonym>having to wear goggles over glasses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -4998,7 +5008,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>RE_SN35</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Not being able to use off-the-shelf sunglasses?</rdfs:label>
+        <rdfs:label xml:lang="en">Not being able to use off-the-shelf sunglasses</rdfs:label>
         <qolo:hasExpertDerivedSynonym>unable to use cheap sunglasses</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unable to use off-the-shelf sunglasses</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unable to use over the counter sunglasses</qolo:hasExpertDerivedSynonym>
@@ -14271,9 +14281,10 @@
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <oboInOwl:DbXref>Glaucoma_SC19</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
-        <rdfs:label xml:lang="en">Being part of social games/activities</rdfs:label>
-        <qolo:hasExpertDerivedSynonym>contirbute to social games / activities</qolo:hasExpertDerivedSynonym>
-        <qolo:hasExpertDerivedSynonym>member of social games/activities</qolo:hasExpertDerivedSynonym>
+        <rdfs:label xml:lang="en">Being part of social games</rdfs:label>
+        <qolo:hasExpertDerivedSynonym>contirbute to social games</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>member of social games</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>social</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
