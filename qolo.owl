@@ -3506,6 +3506,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being able to do things when wanted</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>capable to do things when wanted</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>unable to do things when wanted</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unwilling to do things when wanted</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3520,6 +3521,7 @@
         <oboInOwl:DbXref>DR_CV11</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Losing things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>keeping things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>misplacing things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3533,6 +3535,7 @@
         <oboInOwl:DbXref>DR_CV11</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Misplacing things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>finding things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>can&apos;t find things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>losing things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3551,6 +3554,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">When make a mistake</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>be correct</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>be right</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>be in error</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>be wrong</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>blowing it</qolo:hasExpertDerivedSynonym>
@@ -3574,6 +3579,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">When do the wrong thing</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>when do the correct thing</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>when do the right thing</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>inaccurate thing</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>incorrect thing</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>wrong thing</qolo:hasExpertDerivedSynonym>
@@ -3606,6 +3613,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">When break things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>when fix things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>smash things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>when break things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3624,6 +3632,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to rely on others for help</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>independent</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>conditional on others for help</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>dependent on others for help</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>subject to other for help</qolo:hasExpertDerivedSynonym>
@@ -3639,6 +3648,7 @@
         <oboInOwl:DbXref>DR_CV16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Following advice given by practitioner</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>going against advice from practioner</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>following advice given by practitioner</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3712,6 +3722,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being able to do things as well</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>doing things better</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>no change in doing things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not being able to do things like before</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>not being able to do things normally</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3743,6 +3755,7 @@
         <oboInOwl:DbXref>DR_CV21</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to travel a long distance to attend appointments</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having to travel a short distance to attend appointments</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to travel a far distance to attend appointments</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to travel a long distance to attend appointments</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3761,6 +3774,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to drive slower</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having to drive faster</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to drive at low-speed</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to drive unhurried</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to drive unrushed</qolo:hasExpertDerivedSynonym>
@@ -3780,6 +3794,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to drive more carefully</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having to drive less carefully</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to drive more attentively</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to drive more cautiously</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to drive more vigilantly</qolo:hasExpertDerivedSynonym>
@@ -3812,6 +3827,7 @@
         <oboInOwl:DbXref>DR_CV3</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having travel limitations</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>flexible with travel</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having travel limitations</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3827,6 +3843,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to concentrate harder to do things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>easier to do things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to focus harder to do things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to pay attention to do things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3845,6 +3862,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Needing longer to do things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>shorter to do things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>lengthier to do things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>more time to do things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>prolonged time to do things</qolo:hasExpertDerivedSynonym>
@@ -3864,6 +3882,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to be slower to execute tasks</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having to be faster to execute tasks</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>having to be faster to finish tasks</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to be steady to exedcute tasks</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to be unhurried to execute tasks</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to be unrished to execute tasks</qolo:hasExpertDerivedSynonym>
@@ -3883,6 +3903,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to be more careful to execute tasks</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>less careful to execute</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>less careful to finish</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to be more attentive to execute tasks</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to be more cautious to execute tasks</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to be more vigilant to execute tasksl having to be more careful to do things</qolo:hasExpertDerivedSynonym>
@@ -3900,6 +3922,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being able to do social activities</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>able to socialise</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>unable to do hobbies</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unable to do social activities</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -3913,6 +3936,7 @@
         <oboInOwl:DbXref>DR_CV4</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having limitations on how long you can do things for</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>able to do things for as long as you want</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having limitations on how long you can do things for</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3925,6 +3949,7 @@
         <oboInOwl:DbXref>DR_CV5</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having limitations on when you can do things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>able to do things when you can</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having limitations on when you can do things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3937,6 +3962,7 @@
         <oboInOwl:DbXref>DR_CV9</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to plan outings carefully beforehand</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>not needing to over plan outings</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to plan outings carefully beforehand</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -3975,6 +4001,7 @@
         <oboInOwl:DbXref>DR_CV23</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having multiple treatments</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having a single treatment</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having many treatments</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having numerous treatments</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having several treatments</qolo:hasExpertDerivedSynonym>
@@ -3989,6 +4016,7 @@
         <oboInOwl:DbXref>DR_CV24</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having temporary periods when can&apos;t do much at all</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having long periods when can&apos;t do much at all</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having interim periods when can&apos;t do much at all</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having makeshift periods when can&apos;t do much at all</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having periods</qolo:hasExpertDerivedSynonym>
@@ -4029,6 +4057,8 @@
         <oboInOwl:DbXref>DR_CV28</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having more complicated travel plans</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>awkward travel plans</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>uncomplicated travel plans</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having more complicated travel plans</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4148,6 +4178,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to change the way doing day-to-day tasks</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>daily tasks unaffected</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>change the way doing daily tasks</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4170,6 +4201,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to change plans to attend eye appointments</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>plans unaffected</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>changing plans to attend eye appointments</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4239,6 +4271,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to ask friends to take to an appointment</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>independent at attending appointments</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not asking for help</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>ask friends to take to an appointment</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4250,6 +4284,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to ask family to take to an appointment</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>not asking for help</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>ask family to take to an appointment</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4261,6 +4296,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Remembering the dates and times of eye appointments</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>difficult keeping up with appointment times</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>forgetting the dates and times of eye appointments</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>logistics of eye appointments</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>remembering the dates and times of eye appointments</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -4273,6 +4310,9 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to change lifestyle</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>lifestyle unaffected</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>lifestyle unchanges</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>no change to lifestyle</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>altering lifestyle</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>changing lifestyle</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>swapping lifestyle</qolo:hasExpertDerivedSynonym>
@@ -4287,6 +4327,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to change long term life plans</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>changing short term life plans</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>altering long terms life plans</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>changing long term life plans</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>swapping long term plans</qolo:hasExpertDerivedSynonym>
@@ -4301,6 +4342,11 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Managing time</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>disordered</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>disorganised</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>incompetent</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>ineffective</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>unproductive</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>organising time</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>time management</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -4313,6 +4359,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00196"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Loosing ability to be aware of surroundings</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>aware of surroundings</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>conscious of surroundings</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>ignorant of surroundings</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>oblivious to surroundings</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unaware of surroundings</qolo:hasExpertDerivedSynonym>
@@ -4498,6 +4546,7 @@
         <oboInOwl:DbXref>RE_SN11</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Forgetting to carry glasses</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>remebering to carry glasses</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>forgetting to carry glasses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4510,6 +4559,8 @@
         <oboInOwl:DbXref>RE_SN12</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Losing glasses</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>finding glasses</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>keeping glasses</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>losing glasses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4607,6 +4658,7 @@
         <oboInOwl:DbXref>RE_SN16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to swap glasses</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>keeping glasses on all the time</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>swapping glasses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -4619,6 +4671,7 @@
         <oboInOwl:DbXref>RE_SN17</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Getting contact lenses out</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>keeping contact lenses in</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>removing contact lenses</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>taking contact lenses out</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -4632,6 +4685,7 @@
         <oboInOwl:DbXref>RE_SN17</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Getting contact lenses in</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>getting contact lenses out</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>inserting contact lenses</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>putting contact lenses in</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -4709,6 +4763,7 @@
         <oboInOwl:DbXref>RE_SN21</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Breaking glasses</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>fixing glasses</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>breaking glasses</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>damaging glasses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -4736,6 +4791,7 @@
         <oboInOwl:DbXref>RE_SN23</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Glasses getting dirty</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>glasses getting cleaned</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>glasses getting dirty</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>glasses getting filthy</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>glasses getting mucky</qolo:hasExpertDerivedSynonym>
@@ -4752,6 +4808,7 @@
         <oboInOwl:DbXref>RE_SN23</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Contact lenses getting dirty</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>contact lenses getting cleaned</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>contact lenses getting dirty</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>contact lenses getting filthy</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>contact lenses getting mucky</qolo:hasExpertDerivedSynonym>
@@ -4871,6 +4928,7 @@
         <oboInOwl:DbXref>RE_SN30</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Glasses getting fogged-up</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>glassing remaning clear</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>glasses getting clouded-up</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>glasses getting misted-up</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>glasses getting steamed-up</qolo:hasExpertDerivedSynonym>
@@ -4899,6 +4957,7 @@
         <oboInOwl:DbXref>RE_SN31</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Glasses sliding down nose</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>glasses staying in correct position</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>glasses falling down nose</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -5072,6 +5131,8 @@
         <oboInOwl:DbXref>RE_SN44</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to go closer to see things clearly</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having to go further away to see things clearly</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>having to go further back to see things clearly</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to go nearer to see things clearly</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -5119,6 +5180,8 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Accepting eye condition</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>denying eye condition</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>ignoring eye condition</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>accepting optic neuritis</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>accepting scleritis</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>accepting uveitis</qolo:hasExpertDerivedSynonym>
@@ -5139,6 +5202,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Learning to live with refractive error</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>refusing to live with refractive error</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>learning/learn to live with needing glassess/contact lenses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -5153,6 +5217,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Learning to do things in a different way</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>refusing to do things in a different way</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>holding onto railings</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>increasing/large font size</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>learning to do things differently</qolo:hasExpertDerivedSynonym>
@@ -5187,6 +5252,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Thinking there are people much worse</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>thinking there are people much better</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>better off/luckier/faring better/doing better than other</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>others/people/some/folk worse</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>thinking there are people much worse</qolo:hasExpertDerivedSynonym>
@@ -5223,6 +5289,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having a peer support</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>isolated</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>unsupported</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>patient group</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>patient network</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>patient support</qolo:hasExpertDerivedSynonym>
@@ -5246,6 +5314,9 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Trying to be positive</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>doubtful</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>pessimistic</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>trying to be negative</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>an optimist</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>to be cup half full</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>to be hopeful</qolo:hasExpertDerivedSynonym>
@@ -5268,6 +5339,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Trying to balance life with positive and negative stuff</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>difficulty balancing</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>balancing/balance positive and negative</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>balancing/balance the ups and downs</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>equinimity</qolo:hasExpertDerivedSynonym>
@@ -5287,6 +5359,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Trying not to think about it</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>all consuming</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>overthinking</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>avoid thinking</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>don&apos;t think about it</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>push it out of mind</qolo:hasExpertDerivedSynonym>
@@ -5302,6 +5376,7 @@
         <oboInOwl:DbXref>RE_SN12</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Avoiding some tasks</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>undertaking some tasks</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>avoid</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>dogding/dodge</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>don&apos;t go to</qolo:hasExpertDerivedSynonym>
@@ -5394,6 +5469,9 @@
         <oboInOwl:DbXref>Strab-Am_CP5</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being organised</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>disorganised</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>jumbled</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>messy</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>methodised</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>organised</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>regulated</qolo:hasExpertDerivedSynonym>
@@ -5409,6 +5487,8 @@
         <oboInOwl:DbXref>Strab-Am_CP5</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being careful</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>careless</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>inattentive</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>attentive</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>cautious</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>mindful</qolo:hasExpertDerivedSynonym>
@@ -5427,6 +5507,9 @@
         <oboInOwl:DbXref>Strab-Am_CP6</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being strong</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>meek</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>puny</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>weak</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>i&apos;m / i feel powerful</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>i&apos;m authoritative</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>i&apos;m solid</qolo:hasExpertDerivedSynonym>
@@ -5447,6 +5530,8 @@
         <oboInOwl:DbXref>Strab-Am_CP7</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being with people with whom comfortable with</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>being with people who you dislike</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>being with people with whom uncomfortable with</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>people i&apos;m comfortable with</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>with people i know</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>with people who know me</qolo:hasExpertDerivedSynonym>
@@ -5461,6 +5546,7 @@
         <oboInOwl:DbXref>Strab-Am_CP8</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Closing one eye</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>opening one eye</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>close one eye</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>cover one eye</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>eye patch</qolo:hasExpertDerivedSynonym>
@@ -5478,6 +5564,8 @@
         <oboInOwl:DbXref>Strab-Am_CP9</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Communicating with people about eye condition</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>keeping eye condition private</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not talking to others about eye condition</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>explaining about eyes</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>informing people about eye condition</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>telling people about eye condition</qolo:hasExpertDerivedSynonym>
@@ -5506,6 +5594,7 @@
         <oboInOwl:DbXref>Strab-Am_CP11</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Getting support from others</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>not asking for help</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>getting/get help/support from family/friends/others/people</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -5518,6 +5607,9 @@
         <oboInOwl:DbXref>Strab-Am_CP12</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Hiding eye defect</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>exposing eye defect</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>flaunting eye defect</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>showing eye defect</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>cover eyes</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>hide eyes</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>masking eye defect</qolo:hasExpertDerivedSynonym>
@@ -5532,6 +5624,9 @@
         <oboInOwl:DbXref>Strab-Am_CP13</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Improving appearance</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>deteriorating appearance</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>impairing appearance</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>worsening appearance</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>eye liner</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>eye makeup</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>improve how my eyes look</qolo:hasExpertDerivedSynonym>
@@ -5550,6 +5645,8 @@
         <oboInOwl:DbXref>Strab-Am_CP14</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Learning to live with eye condition</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>finding it difficult to live with eye condition</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not accepting eye condition</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>learning/learn to live with uveitis/scleritis/optic neuritis</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>live with my eye</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -5578,6 +5675,7 @@
         <oboInOwl:DbXref>Strab-Am_CP16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Paying more attention while doing difficult things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>paying less attenyion while doing difficult things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>concentrate on harder/difficult</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>paying/pay attention when doing difficult</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -5591,6 +5689,7 @@
         <oboInOwl:DbXref>Strab-Am_CP16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Concentrating while doing difficult things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>rushing while doing difficult things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>concentrating while doing difficult things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -5616,6 +5715,7 @@
         <oboInOwl:DbXref>Strab-Am_CP21</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Using humour</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>being serious</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>comedy</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>humourous</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>joke about</qolo:hasExpertDerivedSynonym>
@@ -5653,6 +5753,7 @@
         <oboInOwl:DbXref>Strab-Am_CP23</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Using peripheral vision of worse eye to see things onto its side</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>use central vision in worse/bad/less good eye</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>use peripheral vision in worse/bad/less good eye</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -5680,6 +5781,10 @@
         <oboInOwl:DbXref>Strab-Am_CP25</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Withdrawing</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>braving</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>confronting</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>defying</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>facing</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>retiring from company/others</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>retracting from others/people/company</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>retreating inside myself</qolo:hasExpertDerivedSynonym>
@@ -8418,6 +8523,8 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Losing balance</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>balanced</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>in equilibrium</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>ataxic/ataxia</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>imbalance</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unable to walk straight</qolo:hasExpertDerivedSynonym>
@@ -10842,6 +10949,8 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">What other people say about looks</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>unaffected by appearance</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>unbothered by appearance</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>what other people say about appearance</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -10861,6 +10970,9 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Falling</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>ascending</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>getting up</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>rising</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>descending</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>downfalling</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>dropping</qolo:hasExpertDerivedSynonym>
@@ -10875,6 +10987,8 @@
         <oboInOwl:DbXref>DR_HC10</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not having enough support</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>cared for</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>supported</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not having enough support</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -10887,6 +11001,7 @@
         <oboInOwl:DbXref>DR_HC11</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being able to access services</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>isolated</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>being able to access services</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -10904,6 +11019,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Losing independence in the future</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>maintaining dependence</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>losing self-containment in the future</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>losing self-reliance in the future</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>losing self-subsistence in the future</qolo:hasExpertDerivedSynonym>
@@ -10924,6 +11040,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not knowing what&apos;s going to happen in the future</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>certainty</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>clear path</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>apprehensive what&apos;s going to happen in the future</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>uncertain what&apos;s going to happen in the future</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unsure what&apos;s going to happen in the future</qolo:hasExpertDerivedSynonym>
@@ -10938,6 +11056,9 @@
         <oboInOwl:DbXref>DR_HC14</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having less control</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>having more control</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>more power</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>more reign</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having less command</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having less power</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having less reign</qolo:hasExpertDerivedSynonym>
@@ -10957,6 +11078,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Missing out on things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>unaffected</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>missing out on things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -10986,6 +11108,10 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Becoming socially isolated</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>cohesive</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>community</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>involved</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>supported</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>becoming locked down</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>becoming quarantined</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being detached</qolo:hasExpertDerivedSynonym>
@@ -11007,6 +11133,8 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">What other people think</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>unaffected by what other people think</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>unbothered by what people think</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>what other people think</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11046,6 +11174,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Tripping</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>trudging</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>stumbling</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>toppling</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>tumbling</qolo:hasExpertDerivedSynonym>
@@ -11067,6 +11196,8 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being treated differently</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>being treated equally</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>no discrimination</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>being treated abnormally</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being treated adversly</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11087,6 +11218,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">People not understanding eye problems</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>understanding</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>people not understanding eyesight problems</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>people not understanding sight problems</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>people not understanding vision problems</qolo:hasExpertDerivedSynonym>
@@ -11104,6 +11236,10 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">People judging</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>approving</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>complimentary</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>praising</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>uncritical</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>people criticising</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>people infering</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11195,6 +11331,7 @@
         <oboInOwl:DbXref>DR_HC30</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Starting a family</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>childless</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>beginning a family</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11227,6 +11364,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Losing driver&apos;s licence</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>retaining driver&apos;s permit / licence</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>losing driver&apos;s permit</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>misplacing driver&apos;s permit</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11243,6 +11381,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Understanding of disease</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>ignorant of disease</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>understanding of illness</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>understanding of sickness understanding of condition</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11259,6 +11398,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Understanding of treatments</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>ignorant of treatments</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>understanding of therapeutics</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11276,6 +11416,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Understanding of laser refractive surgery</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>ignorant of laser refractive surgert</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>understanding of lasek</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>understanding of lasik</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11289,6 +11430,7 @@
         <oboInOwl:DbXref>DR_HC31</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Vision getting worse even though trying hard to control diabetes</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>vision getting better</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>vision getting poor even though trying hard to control diabetes</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11413,6 +11555,9 @@
         <oboInOwl:DbXref>DR_HC5</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Scalded</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>cooled</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>freezing</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>fresh</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>scorched</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11430,6 +11575,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Personal safety</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>group safety</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>personal safety</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11449,6 +11595,9 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Eyesight getting worse</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>improved sight</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>sight getting better</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>vision getting better</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>sight getting worse</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>vision getting worse</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11469,6 +11618,8 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Going blind</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>gaining sight</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>maintaining sight</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>losing sight</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11484,6 +11635,8 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Coping with things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>acopic</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>inability to cope</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>carrying on with things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>managing with things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11515,7 +11668,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Passing eye condition onto children</rdfs:label>
-        <qolo:hasExpertDerivedSynonym>passing eye condition onto children</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>genetic</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -11585,6 +11738,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not getting enough information from doctor</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>satisftied with information</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>well-informed</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not getting adequate information from doctor</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>not getting sufficient information from doctor</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11603,6 +11758,8 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Putting other people in danger by driving</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>legal driver</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>safe driver</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>endangering others by driving</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11629,6 +11786,8 @@
         <oboInOwl:DbXref>Strab-Am_CO61</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Good eye getting injured</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>bad eye getting injured</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>bad eye getting worse</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>better eye getting injured</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>stronger eye getting injured</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -11687,6 +11846,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00617"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Having to see different doctors</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>continuity of care</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>seeing the same doctor</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to see many doctors</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to see multiple doctors</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to see numerous doctors</qolo:hasExpertDerivedSynonym>
@@ -11727,6 +11888,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00617"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Eye specialist saying nothing can be done to treat AMD</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>cure</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>eye specialist saying there&apos;s treatment</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>eye specialist saying nothing can be done to treat amd</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11749,6 +11912,9 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00617"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Not being able to help other people as much</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>helpful</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>purpose</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>worth</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not being able to help other people as much</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -11804,6 +11970,9 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Getting teased at</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>blending in</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>fiiting in</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not standing out</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>getting made fun off</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>getting made jokes about</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>getting poked fun at</qolo:hasExpertDerivedSynonym>
@@ -12036,6 +12205,8 @@
         <oboInOwl:DbXref>Strab-Am_CO2</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being clumsy</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>elegant</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>graceful</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>being inelegant</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being ungraceful</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12049,6 +12220,7 @@
         <oboInOwl:DbXref>Strab-Am_CO3</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being dependent on the good eye</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>independent</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>being dependent on superior eye</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being dependent on the better eye</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12062,6 +12234,7 @@
         <oboInOwl:DbXref>Strab-Am_CO4</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being in photographs</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>camera shy</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>being in photos</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being in picitures</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being in shots</qolo:hasExpertDerivedSynonym>
@@ -12089,6 +12262,7 @@
         <oboInOwl:DbXref>Strab-Am_CO6</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Being left out</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>included</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>being isolated</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>being secluded</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12102,6 +12276,7 @@
         <oboInOwl:DbXref>Strab-Am_CO9</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Dropping things</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>holding things</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>falling things</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>releasing things</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12164,6 +12339,7 @@
         <oboInOwl:DbXref>Strab-Am_CO15</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having motor accidents</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>road safety</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having rtas</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12176,6 +12352,7 @@
         <oboInOwl:DbXref>Strab-Am_CO16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having accidents</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>safety</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having injuries</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12238,6 +12415,7 @@
         <oboInOwl:DbXref>Strab-Am_CO20</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Having to wear thicker glasses</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>thinner glasses</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>having to wear bulkier glasses</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>having to wear chunkier glasses</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12251,6 +12429,7 @@
         <oboInOwl:DbXref>Strab-Am_CO21</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Ineffective treatment in the past</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>successful treatment</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>unsuccessful treatment in the past</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12263,6 +12442,8 @@
         <oboInOwl:DbXref>Strab-Am_CO22</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Knowing that there is no treatment options available</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>cure</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>treatment</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>knowing that there is no treatment options available</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12311,7 +12492,13 @@
         <oboInOwl:DbXref>Strab-Am_CO26</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Misaligned eyes</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>balanced</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>no squint</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>straight eyes</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedSynonym>squint</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>strabismus</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>unbalanced eyes</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>wonky eyes</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -12335,6 +12522,7 @@
         <oboInOwl:DbXref>Strab-Am_CO28</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being able to concentrate for long period of time</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>concentrate</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not being able to concentrate for extended period of time</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12426,6 +12614,9 @@
         <oboInOwl:DbXref>Strab-Am_CO35</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being diagnosed</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>diagnosed</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>identfied</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>picked up</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not being detected</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12438,6 +12629,7 @@
         <oboInOwl:DbXref>Strab-Am_CO35</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being treated early</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>early intervention</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>not being treated early</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12450,6 +12642,12 @@
         <oboInOwl:DbXref>Strab-Am_CO36</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Not being successful</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>fortunate</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>lucky</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>success</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>successful</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>triumphant</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>victorious</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>failing</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>not being triumphant</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>not being victorious</qolo:hasExpertDerivedSynonym>
@@ -12488,6 +12686,8 @@
         <oboInOwl:DbXref>Strab-Am_CO38</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Eyes wandering</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>stable eyes</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>still eyes</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>eyes wandering</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12597,6 +12797,10 @@
         <oboInOwl:DbXref>Strab-Am_CO52</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Type of treatment received</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>conservative managed</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>lack of treatment</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>untreated</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>watch and wait</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>type of treatment received</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12621,6 +12825,10 @@
         <oboInOwl:DbXref>Strab-Am_CO57</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Ability to obtain a job</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>laid off</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing a job</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>sacked</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>unemployed</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>ability to pick up a job</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>ability to secure a job</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12634,6 +12842,10 @@
         <oboInOwl:DbXref>Strab-Am_CO57</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Ability to keep a job</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>laid off</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing a job</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>sacked</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>unemployed</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>ability to remain in a job</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>ability to retain a job</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -12647,6 +12859,8 @@
         <oboInOwl:DbXref>Strab-Am_CO58</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Bad eye</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>better eye</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>good eye</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>inferior eye</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>poor eye</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>worse eye</qolo:hasExpertDerivedSynonym>
@@ -12661,6 +12875,7 @@
         <oboInOwl:DbXref>Strab-Am_CO59</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Doctor unsure about treatment modality</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>certain about treatment confident about treatment</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>doctor unsure about treatment modality</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -12673,6 +12888,8 @@
         <oboInOwl:DbXref>Strab-Am_CO59</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Doctor unsure about outcome</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>certain about outcome</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>confident about outcome</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>doctor unsure about aftermath</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>doctor unsure about result</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -13921,6 +14138,8 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Family making an issue of eye problems</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>family forgetting eye problem</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>family ignoring eye problem</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>family making a problem of eye problems</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -13933,6 +14152,8 @@
         <oboInOwl:DbXref>DR_SC11</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Friends making an issue of eye problems</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>friends forgetting eye problem</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>friends ignoring eye problem</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>friends making an problem of eye problems</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -13950,6 +14171,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">With strain in family relationships</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>balanced / controlled family relationshops</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>relaxed family relationships</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>pressure in family</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>strain in family relationships</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>tension in family</qolo:hasExpertDerivedSynonym>
@@ -13967,6 +14190,7 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Attending organised social functions</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>absence from social events / parties</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>attending a do</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>attending a social event</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>attending an occasion</qolo:hasExpertDerivedSynonym>
@@ -13987,6 +14211,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Engaging with children</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>detaching from children</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>disengaging from children</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>engaging kids</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>interacting with children</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>playing with children</qolo:hasExpertDerivedSynonym>
@@ -14005,6 +14231,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Engaging with grandchildren</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>detaching from grandchildren</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>disengaging from grandchildren</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>engaging with grandkids</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>interacting with granchidlren</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>playing with grandchildren</qolo:hasExpertDerivedSynonym>
@@ -14026,6 +14254,8 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Participating in social activities at night</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>abstaining from socialisin</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>refraining from socialising</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>participating in social activities in the evening</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>social events at night</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14039,6 +14269,8 @@
         <oboInOwl:DbXref>DR_SC16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Participating at social functions</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>abstaining from socialisin</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>refraining from socialising</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>participating at social events</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>participating in social activities</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14052,6 +14284,10 @@
         <oboInOwl:DbXref>DR_SC17</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">With strain in relationship with partner</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>comfortable with partner</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>happy with partner</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>strong partnership</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>strong relationship</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>pressure in relationship with partner</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>strain in family relationship with partner</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>tension in relationship with partner</qolo:hasExpertDerivedSynonym>
@@ -14066,6 +14302,7 @@
         <oboInOwl:DbXref>DR_SC18</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Meeting a partner</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>remaining single</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>finding a partner</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14082,6 +14319,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaining roles and responsibilities in the family</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>difficulty in family life</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaining family life</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>maintaining home life</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14100,6 +14338,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maitaining usual social activities</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>difficulty socialising</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing friends</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaining outside interests</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>maitaining hobbies</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14118,6 +14358,7 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maiinaining usual social life</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>losing social life</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaining social life</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14135,6 +14376,9 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaing roles and responsiblities in social or friendship groups</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>less friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing friendships</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaing friendships</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>maintaining friends</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14151,8 +14395,10 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintainig roles and responsiblities in community organizations</rdfs:label>
-        <qolo:hasExpertDerivedSynonym>maintainig roles in community organizations</qolo:hasExpertDerivedSynonym>
-        <qolo:hasExpertDerivedSynonym>maintating purpose in community</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedAntonym>losing purpose in community</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing roles in community organizations</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedSynonym>maintaining purpose in community</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedSynonym>maintaining roles in community organizations</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -14169,6 +14415,10 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaining friendships</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>buddies</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>mates</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>pals</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>buddies</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>maintaining friends</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>mates</qolo:hasExpertDerivedSynonym>
@@ -14185,6 +14435,8 @@
         <oboInOwl:DbXref>DR_SC4</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Entertaining at home</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>boring at home</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>uninterested at home</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>entertaining at home</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14199,6 +14451,8 @@
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Interacting socially with people</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>keeping yourself to yourself</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>solitude</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>interacting socially</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>sociability</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>social contact</qolo:hasExpertDerivedSynonym>
@@ -14232,6 +14486,7 @@
         <oboInOwl:DbXref>DR_SC7</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Fenwick, Eva K., et al. &quot;The impact of diabetic retinopathy on quality of life: qualitative findings from an item bank development project.&quot; Quality of Life Research 21 (2012): 1771-1782.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Interacting with strangers day to day</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>ignoring strangers</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>interacting with strangers day to day</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14251,6 +14506,9 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Making new friends</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>happy with old friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>keeping old friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not interested in making new friends</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>befriending</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>initating new friendships</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>making new friends</qolo:hasExpertDerivedSynonym>
@@ -14297,6 +14555,10 @@
         <oboInOwl:DbXref>Glaucoma_SC16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Eating out</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>dining at home</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>dining in</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>eating at home</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>eating in</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>dining out</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>going to restaurants</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14313,6 +14575,9 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Chatting with people</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>avoiding chit chat</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>avoiding small talk</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>ignoring people</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>talking with people</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14328,6 +14593,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Seeing family as often</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>seeing family infrequently</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>seeing family frequently</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>seeing family often</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14344,6 +14610,7 @@
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Man, Ryan Eyn Kidd, et al. &quot;Psychometric evaluation of Glaucoma Quality of Life Item Banks (GlauCAT) and initial assessment using computerized adaptive testing.&quot; Translational Vision Science &amp; Technology 11.6 (2022): 9-9.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Seeing friends as often</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>seeing friends infrequently</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>seeing friends frequently</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>seeing friends often</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14358,7 +14625,8 @@
         <oboInOwl:DbXref>RE_SN15</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaing close personal relationships</rdfs:label>
-        <qolo:hasExpertDerivedSynonym>maintaing close  relationships</qolo:hasExpertDerivedSynonym>
+        <qolo:hasExpertDerivedAntonym>losing close personal relationshops</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedSynonym>maintaining close  relationships</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
 
@@ -14371,6 +14639,8 @@
         <oboInOwl:DbXref>RE_SN10</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Getting help from family</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>independent from family</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not replying on family</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>getting aid from family</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14398,6 +14668,8 @@
         <oboInOwl:DbXref>RE_SN10</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Getting help from friends</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>indepedent from friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not relying on friends</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>support from friends</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14433,6 +14705,10 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00828"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Getting support from social welfare</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>independent from social welfare</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>independent from state</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not relying on government</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not relying on state</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>getting support from social welfare</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14444,6 +14720,8 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00828"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Getting help from government organisations</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>independent from government</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>not relying on government</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>government assistance</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14469,6 +14747,7 @@
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/qolo/blob/master/qolo.owl#QOLO_00828"/>
         <oboInOwl:DbXref>AMD_yes</oboInOwl:DbXref>
         <rdfs:label xml:lang="en">Participating in social activities during the day</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>not engaging socially</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>participating socially during the day</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14482,6 +14761,7 @@
         <oboInOwl:DbXref>Strab-Am_SO6</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaining social connections</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>losing social connections</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaining friendships</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14496,6 +14776,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Going out with family</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>staying at home with family</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>staying in with family</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>going out with family</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14510,6 +14792,8 @@
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:derived-from-resource>Prem Senthil, Mallika, et al. &quot;Developing an item bank to measure the coping strategies of people with hereditary retinal diseases.&quot; Graefe&apos;s Archive for Clinical and Experimental Ophthalmology 256 (2018): 1291-1298.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Going out with friends</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>staying at home with friends</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>staying in with friends</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>going out with friends</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14522,6 +14806,7 @@
         <oboInOwl:DbXref>RE_SN8</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Making social relationships</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>ignoring social relationships</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>making social relationships</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14549,6 +14834,9 @@
         <oboInOwl:DbXref>RE_SN16</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kandel, Himal, et al. &quot;Item banks for measurement of refractive error-specific quality of life.&quot; Ophthalmic and Physiological Optics 41.3 (2021): 591-602.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaining role as a parent</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>forgetting role as parent</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>losing role as parent</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>neglecting role as parent</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaining parent responsibilities</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14561,6 +14849,8 @@
         <oboInOwl:DbXref>Strab-Am_SO2</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Engaging in social activities</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>avoiding social activities</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>ignoring social activitis</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>engaging in social activities</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>engaging in social events</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>participating socially</qolo:hasExpertDerivedSynonym>
@@ -14575,6 +14865,8 @@
         <oboInOwl:DbXref>Strab-Am_SO3</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Engaging with children in playing</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>avoiding children playing</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>ignoring children playing</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>getting involved with children in playing</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14587,6 +14879,8 @@
         <oboInOwl:DbXref>Strab-Am_SO3</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Engaging with grandchildren in playing</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>avoiding grandchildren playing</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>ignoring grandchildren playing</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>getting involved  with grandchildren in playing</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14599,6 +14893,8 @@
         <oboInOwl:DbXref>Strab-Am_SO4</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Going out socially</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>staying at home socially</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>staying in socially</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>going out socially</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14611,6 +14907,7 @@
         <oboInOwl:DbXref>Strab-Am_SO8</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Maintaining roles and responsibilities at work</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>unable to balance roles and responsibilities at work</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>maintaining work life</qolo:hasExpertDerivedSynonym>
     </owl:Class>
     
@@ -14698,6 +14995,7 @@
         <oboInOwl:DbXref>Strab-Am_SO18</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Talking to people of opposite gender</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>talking to people of same gender</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>talking to people of different gender</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>talking to people of the other gender</qolo:hasExpertDerivedSynonym>
     </owl:Class>
@@ -14711,6 +15009,8 @@
         <oboInOwl:DbXref>Strab-Am_SO19</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Family members getting annoyed at mistakes</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>family accepting of mistakes</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>family forgiving of mistakes</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>family geting annoyed at blunders</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>family geting annoyed at faults</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>family getting annoyed at errors</qolo:hasExpertDerivedSynonym>
@@ -14726,6 +15026,8 @@
         <oboInOwl:DbXref>Strab-Am_SO19</oboInOwl:DbXref>
         <rdfs:derived-from-resource>Kumaran, Sheela Evangeline, et al. &quot;Constructing country-specific quality-of-life item banks for adults with amblyopia and strabismus in Australia and India.&quot; Clinical and Experimental Optometry (2023): 1-8.</rdfs:derived-from-resource>
         <rdfs:label xml:lang="en">Friends getting annoyed at mistakes</rdfs:label>
+        <qolo:hasExpertDerivedAntonym>friends accepting of mistakes</qolo:hasExpertDerivedAntonym>
+        <qolo:hasExpertDerivedAntonym>friends forgiving of mistakes</qolo:hasExpertDerivedAntonym>
         <qolo:hasExpertDerivedSynonym>friends geting annoyed at blunders</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>friends geting annoyed at faults</qolo:hasExpertDerivedSynonym>
         <qolo:hasExpertDerivedSynonym>friends getting annoyed at errors</qolo:hasExpertDerivedSynonym>
